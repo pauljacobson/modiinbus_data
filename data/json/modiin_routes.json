@@ -1,0 +1,1487 @@
+[
+  {
+    "route_id": 12479,
+    "agency_id": 2,
+    "route_short_name": null,
+    "route_long_name": "מודיעין מרכז-מודיעין מכבים רעות<->תל אביב מרכז-תל אביב יפו",
+    "route_desc": "26025-2-0",
+    "route_type": 2,
+    "route_color": null
+  },
+  {
+    "route_id": 18899,
+    "agency_id": 2,
+    "route_short_name": null,
+    "route_long_name": "תל אביב מרכז-תל אביב יפו<->מודיעין מרכז-מודיעין מכבים רעות",
+    "route_desc": "26025-1-2",
+    "route_type": 2,
+    "route_color": null
+  },
+  {
+    "route_id": 20177,
+    "agency_id": 2,
+    "route_short_name": null,
+    "route_long_name": "נהריה-נהריה<->מודיעין מרכז-מודיעין מכבים רעות",
+    "route_desc": "26050-1-23",
+    "route_type": 2,
+    "route_color": null
+  },
+  {
+    "route_id": 20179,
+    "agency_id": 2,
+    "route_short_name": null,
+    "route_long_name": "מודיעין מרכז-מודיעין מכבים רעות<->נהריה-נהריה",
+    "route_desc": "26050-2-20",
+    "route_type": 2,
+    "route_color": null
+  },
+  {
+    "route_id": 20180,
+    "agency_id": 2,
+    "route_short_name": null,
+    "route_long_name": "נהריה-נהריה<->מודיעין מרכז-מודיעין מכבים רעות",
+    "route_desc": "26050-1-24",
+    "route_type": 2,
+    "route_color": null
+  },
+  {
+    "route_id": 20182,
+    "agency_id": 2,
+    "route_short_name": null,
+    "route_long_name": "נהריה-נהריה<->מודיעין מרכז-מודיעין מכבים רעות",
+    "route_desc": "26050-1-25",
+    "route_type": 2,
+    "route_color": null
+  },
+  {
+    "route_id": 20183,
+    "agency_id": 2,
+    "route_short_name": null,
+    "route_long_name": "מודיעין מרכז-מודיעין מכבים רעות<->נהריה-נהריה",
+    "route_desc": "26050-2-22",
+    "route_type": 2,
+    "route_color": null
+  },
+  {
+    "route_id": 20200,
+    "agency_id": 2,
+    "route_short_name": null,
+    "route_long_name": "נהריה-נהריה<->מודיעין מרכז-מודיעין מכבים רעות",
+    "route_desc": "26050-1-27",
+    "route_type": 2,
+    "route_color": null
+  },
+  {
+    "route_id": 20201,
+    "agency_id": 2,
+    "route_short_name": null,
+    "route_long_name": "מודיעין מרכז-מודיעין מכבים רעות<->נהריה-נהריה",
+    "route_desc": "26050-2-23",
+    "route_type": 2,
+    "route_color": null
+  },
+  {
+    "route_id": 20953,
+    "agency_id": 2,
+    "route_short_name": null,
+    "route_long_name": "מודיעין מרכז-מודיעין מכבים רעות<->נהריה-נהריה",
+    "route_desc": "26050-2-24",
+    "route_type": 2,
+    "route_color": null
+  },
+  {
+    "route_id": 20954,
+    "agency_id": 2,
+    "route_short_name": null,
+    "route_long_name": "נהריה-נהריה<->מודיעין מרכז-מודיעין מכבים רעות",
+    "route_desc": "26050-1-28",
+    "route_type": 2,
+    "route_color": null
+  },
+  {
+    "route_id": 20955,
+    "agency_id": 2,
+    "route_short_name": null,
+    "route_long_name": "מודיעין מרכז-מודיעין מכבים רעות<->נהריה-נהריה",
+    "route_desc": "26050-2-25",
+    "route_type": 2,
+    "route_color": null
+  },
+  {
+    "route_id": 20956,
+    "agency_id": 2,
+    "route_short_name": null,
+    "route_long_name": "מודיעין מרכז-מודיעין מכבים רעות<->נהריה-נהריה",
+    "route_desc": "26050-2-26",
+    "route_type": 2,
+    "route_color": null
+  },
+  {
+    "route_id": 20957,
+    "agency_id": 2,
+    "route_short_name": null,
+    "route_long_name": "מודיעין מרכז-מודיעין מכבים רעות<->נהריה-נהריה",
+    "route_desc": "26050-2-27",
+    "route_type": 2,
+    "route_color": null
+  },
+  {
+    "route_id": 20958,
+    "agency_id": 2,
+    "route_short_name": null,
+    "route_long_name": "מודיעין מרכז-מודיעין מכבים רעות<->נהריה-נהריה",
+    "route_desc": "26050-2-28",
+    "route_type": 2,
+    "route_color": null
+  },
+  {
+    "route_id": 21012,
+    "agency_id": 2,
+    "route_short_name": null,
+    "route_long_name": "נהריה-נהריה<->מודיעין מרכז-מודיעין מכבים רעות",
+    "route_desc": "26050-1-29",
+    "route_type": 2,
+    "route_color": null
+  },
+  {
+    "route_id": 21240,
+    "agency_id": 2,
+    "route_short_name": null,
+    "route_long_name": "נהריה-נהריה<->מודיעין מרכז-מודיעין מכבים רעות",
+    "route_desc": "26050-1-30",
+    "route_type": 2,
+    "route_color": null
+  },
+  {
+    "route_id": 12505,
+    "agency_id": 2,
+    "route_short_name": null,
+    "route_long_name": "מודיעין מרכז-מודיעין מכבים רעות<->חיפה מרכז-חיפה",
+    "route_desc": "27035-2-3",
+    "route_type": 2,
+    "route_color": null
+  },
+  {
+    "route_id": 19104,
+    "agency_id": 2,
+    "route_short_name": null,
+    "route_long_name": "חיפה מרכז-חיפה<->מודיעין מרכז-מודיעין מכבים רעות",
+    "route_desc": "27035-1-7",
+    "route_type": 2,
+    "route_color": null
+  },
+  {
+    "route_id": 20959,
+    "agency_id": 2,
+    "route_short_name": null,
+    "route_long_name": "מודיעין מרכז-מודיעין מכבים רעות<->חיפה מרכז-חיפה",
+    "route_desc": "27035-2-11",
+    "route_type": 2,
+    "route_color": null
+  },
+  {
+    "route_id": 20190,
+    "agency_id": 2,
+    "route_short_name": null,
+    "route_long_name": "מודיעין מרכז-מודיעין מכבים רעות<->קרית מוצקין-קרית מוצקין",
+    "route_desc": "36091-2-3",
+    "route_type": 2,
+    "route_color": null
+  },
+  {
+    "route_id": 13752,
+    "agency_id": 3,
+    "route_short_name": 268,
+    "route_long_name": "לבונה/דבורנית-בית אריה<->תחנה מרכזית/הורדה-מודיעין מכבים רעות-17",
+    "route_desc": "10268-1-7",
+    "route_type": 3,
+    "route_color": null
+  },
+  {
+    "route_id": 14046,
+    "agency_id": 3,
+    "route_short_name": 268,
+    "route_long_name": "תחנה מרכזית מודיעין מכבים רעות-מודיעין מכבים רעות<->לבונה/שדרות ניצנים-בית אריה-2ך",
+    "route_desc": "10268-2-ך",
+    "route_type": 3,
+    "route_color": null
+  },
+  {
+    "route_id": 19775,
+    "agency_id": 3,
+    "route_short_name": 268,
+    "route_long_name": "תחנה מרכזית תל אביב קומה 6/רציפים-תל אביב יפו<->תחנה מרכזית/הורדה-מודיעין מכבים רעות-1#",
+    "route_desc": "10268-1-#",
+    "route_type": 3,
+    "route_color": null
+  },
+  {
+    "route_id": 19776,
+    "agency_id": 3,
+    "route_short_name": 268,
+    "route_long_name": "תחנה מרכזית מודיעין מכבים רעות-מודיעין מכבים רעות<->תחנה מרכזית תל אביב קומה 6/הורדה-תל אביב יפו-2#",
+    "route_desc": "10268-2-#",
+    "route_type": 3,
+    "route_color": null
+  },
+  {
+    "route_id": 6401,
+    "agency_id": 4,
+    "route_short_name": 468,
+    "route_long_name": "ביטוח לאומי-ירושלים<->תחנה מרכזית/הורדה-מודיעין מכבים רעות-11",
+    "route_desc": "10468-1-1",
+    "route_type": 3,
+    "route_color": null
+  },
+  {
+    "route_id": 14608,
+    "agency_id": 4,
+    "route_short_name": 468,
+    "route_long_name": "תחנה מרכזית מודיעין מכבים רעות-מודיעין מכבים רעות<->ביטוח לאומי-ירושלים-21",
+    "route_desc": "10468-2-1",
+    "route_type": 3,
+    "route_color": null
+  },
+  {
+    "route_id": 14609,
+    "agency_id": 4,
+    "route_short_name": 182,
+    "route_long_name": "תחנה מרכזית מודיעין מכבים רעות-מודיעין מכבים רעות<->נחליאל/ישיבה-נחליאל-11",
+    "route_desc": "11182-1-1",
+    "route_type": 3,
+    "route_color": null
+  },
+  {
+    "route_id": 14610,
+    "agency_id": 4,
+    "route_short_name": 182,
+    "route_long_name": "נחליאל/ישיבה-נחליאל<->תחנה מרכזית/הורדה-מודיעין מכבים רעות-21",
+    "route_desc": "11182-2-1",
+    "route_type": 3,
+    "route_color": null
+  },
+  {
+    "route_id": 14611,
+    "agency_id": 4,
+    "route_short_name": 183,
+    "route_long_name": "תחנה מרכזית מודיעין מכבים רעות-מודיעין מכבים רעות<->דולב-דולב-11",
+    "route_desc": "13183-1-1",
+    "route_type": 3,
+    "route_color": null
+  },
+  {
+    "route_id": 14612,
+    "agency_id": 4,
+    "route_short_name": 183,
+    "route_long_name": "דולב-דולב<->תחנה מרכזית/הורדה-מודיעין מכבים רעות-21",
+    "route_desc": "13183-2-1",
+    "route_type": 3,
+    "route_color": null
+  },
+  {
+    "route_id": 14663,
+    "agency_id": 4,
+    "route_short_name": 184,
+    "route_long_name": "תחנה מרכזית מודיעין מכבים רעות-מודיעין מכבים רעות<->נחליאל/ישיבה-נחליאל-11",
+    "route_desc": "15184-1-1",
+    "route_type": 3,
+    "route_color": null
+  },
+  {
+    "route_id": 14664,
+    "agency_id": 4,
+    "route_short_name": 184,
+    "route_long_name": "נחליאל/ישיבה-נחליאל<->תחנה מרכזית/הורדה-מודיעין מכבים רעות-21",
+    "route_desc": "15184-2-1",
+    "route_type": 3,
+    "route_color": null
+  },
+  {
+    "route_id": 20347,
+    "agency_id": 4,
+    "route_short_name": 184,
+    "route_long_name": "תחנת רכבת מודיעין/מרכז-מודיעין מכבים רעות<->נחליאל/ישיבה-נחליאל-12",
+    "route_desc": "15184-1-2",
+    "route_type": 3,
+    "route_color": null
+  },
+  {
+    "route_id": 20348,
+    "agency_id": 4,
+    "route_short_name": 184,
+    "route_long_name": "נחליאל/ישיבה-נחליאל<->תחנת רכבת מודיעין/מרכז-מודיעין מכבים רעות-22",
+    "route_desc": "15184-2-2",
+    "route_type": 3,
+    "route_color": null
+  },
+  {
+    "route_id": 9018,
+    "agency_id": 18,
+    "route_short_name": 110,
+    "route_long_name": "תחנה מרכזית מודיעין מכבים רעות-מודיעין מכבים רעות<->חניון הלאום-ירושלים-12",
+    "route_desc": "10110-1-2",
+    "route_type": 3,
+    "route_color": null
+  },
+  {
+    "route_id": 9021,
+    "agency_id": 18,
+    "route_short_name": 110,
+    "route_long_name": "חניון הלאום-ירושלים<->תחנה מרכזית/הורדה-מודיעין מכבים רעות-22",
+    "route_desc": "10110-2-2",
+    "route_type": 3,
+    "route_color": null
+  },
+  {
+    "route_id": 11176,
+    "agency_id": 18,
+    "route_short_name": 110,
+    "route_long_name": "תחנה מרכזית מודיעין מכבים רעות-מודיעין מכבים רעות<->חניון הלאום-ירושלים-10",
+    "route_desc": "10110-1-0",
+    "route_type": 3,
+    "route_color": null
+  },
+  {
+    "route_id": 11177,
+    "agency_id": 18,
+    "route_short_name": 110,
+    "route_long_name": "חניון הלאום-ירושלים<->תחנה מרכזית/הורדה-מודיעין מכבים רעות-20",
+    "route_desc": "10110-2-0",
+    "route_type": 3,
+    "route_color": null
+  },
+  {
+    "route_id": 21168,
+    "agency_id": 18,
+    "route_short_name": 110,
+    "route_long_name": "חניון הלאום-ירושלים<->בריכה/עמק דותן-מודיעין מכבים רעות-24",
+    "route_desc": "10110-2-4",
+    "route_type": 3,
+    "route_color": null
+  },
+  {
+    "route_id": 21169,
+    "agency_id": 18,
+    "route_short_name": 110,
+    "route_long_name": "עמק דותן/עמק יזרעאל-מודיעין מכבים רעות<->חניון הלאום-ירושלים-14",
+    "route_desc": "10110-1-4",
+    "route_type": 3,
+    "route_color": null
+  },
+  {
+    "route_id": 21666,
+    "agency_id": 18,
+    "route_short_name": 110,
+    "route_long_name": "חניון הלאום-ירושלים<->תחנה מרכזית/הורדה-מודיעין מכבים רעות-26",
+    "route_desc": "10110-2-6",
+    "route_type": 3,
+    "route_color": null
+  },
+  {
+    "route_id": 11360,
+    "agency_id": 18,
+    "route_short_name": 116,
+    "route_long_name": "תכלת /אבני חושן-מודיעין מכבים רעות<->חניון הלאום-ירושלים-10",
+    "route_desc": "10116-1-0",
+    "route_type": 3,
+    "route_color": null
+  },
+  {
+    "route_id": 11361,
+    "agency_id": 18,
+    "route_short_name": 116,
+    "route_long_name": "בנייני האומה/הנשיא השישי-ירושלים<->תכלת/אבני חושן-מודיעין מכבים רעות-20",
+    "route_desc": "10116-2-0",
+    "route_type": 3,
+    "route_color": null
+  },
+  {
+    "route_id": 16479,
+    "agency_id": 18,
+    "route_short_name": 89,
+    "route_long_name": "בי''ס אריאל ממ''ד/דרך מנחם בגין-מודיעין מכבים רעות<->נהר הירדן/מעלה עמיעז-מודיעין מכבים רעות-20",
+    "route_desc": "10889-2-0",
+    "route_type": 3,
+    "route_color": null
+  },
+  {
+    "route_id": 15628,
+    "agency_id": 18,
+    "route_short_name": 117,
+    "route_long_name": "עמק דותן/עמק יזרעאל-מודיעין מכבים רעות<->ממילא/קריב-ירושלים-10",
+    "route_desc": "11117-1-0",
+    "route_type": 3,
+    "route_color": "9933FF"
+  },
+  {
+    "route_id": 15629,
+    "agency_id": 18,
+    "route_short_name": 117,
+    "route_long_name": "ממילא/קריב-ירושלים<->בריכה/עמק דותן-מודיעין מכבים רעות-20",
+    "route_desc": "11117-2-0",
+    "route_type": 3,
+    "route_color": "9933FF"
+  },
+  {
+    "route_id": 11358,
+    "agency_id": 18,
+    "route_short_name": 201,
+    "route_long_name": "תחנה מרכזית מודיעין מכבים רעות-מודיעין מכבים רעות<->בי''ח בלינסון/ז'בוטינסקי-פתח תקווה-10",
+    "route_desc": "11201-1-0",
+    "route_type": 3,
+    "route_color": null
+  },
+  {
+    "route_id": 11359,
+    "agency_id": 18,
+    "route_short_name": 201,
+    "route_long_name": "בי''ח בלינסון - הקניון הגדול/ז'בוטינסקי-פתח תקווה<->תחנה מרכזית/הורדה-מודיעין מכבים רעות-20",
+    "route_desc": "11201-2-0",
+    "route_type": 3,
+    "route_color": null
+  },
+  {
+    "route_id": 11196,
+    "agency_id": 18,
+    "route_short_name": 202,
+    "route_long_name": "תחנה מרכזית מודיעין מכבים רעות-מודיעין מכבים רעות<->בי''ח בלינסון/ז'בוטינסקי-פתח תקווה-10",
+    "route_desc": "11202-1-0",
+    "route_type": 3,
+    "route_color": null
+  },
+  {
+    "route_id": 11197,
+    "agency_id": 18,
+    "route_short_name": 202,
+    "route_long_name": "בי''ח בלינסון - הקניון הגדול/ז'בוטינסקי-פתח תקווה<->תחנה מרכזית/הורדה-מודיעין מכבים רעות-20",
+    "route_desc": "11202-2-0",
+    "route_type": 3,
+    "route_color": null
+  },
+  {
+    "route_id": 14996,
+    "agency_id": 18,
+    "route_short_name": 504,
+    "route_long_name": "מסוף שוהם-חבל מודיעין<->תחנה מרכזית/הורדה-מודיעין מכבים רעות-10",
+    "route_desc": "11504-1-0",
+    "route_type": 3,
+    "route_color": null
+  },
+  {
+    "route_id": 14997,
+    "agency_id": 18,
+    "route_short_name": 504,
+    "route_long_name": "תחנה מרכזית מודיעין מכבים רעות-מודיעין מכבים רעות<->מסוף שוהם-חבל מודיעין-20",
+    "route_desc": "11504-2-0",
+    "route_type": 3,
+    "route_color": null
+  },
+  {
+    "route_id": 15000,
+    "agency_id": 18,
+    "route_short_name": 504,
+    "route_long_name": "מסוף שוהם-חבל מודיעין<->מרכז מסחרי/שדרות המלאכות-מודיעין מכבים רעות-11",
+    "route_desc": "11504-1-1",
+    "route_type": 3,
+    "route_color": null
+  },
+  {
+    "route_id": 15001,
+    "agency_id": 18,
+    "route_short_name": 504,
+    "route_long_name": "מרכז מסחרי/שדרות המלאכות-מודיעין מכבים רעות<->מסוף שוהם-חבל מודיעין-21",
+    "route_desc": "11504-2-1",
+    "route_type": 3,
+    "route_color": null
+  },
+  {
+    "route_id": 15250,
+    "agency_id": 18,
+    "route_short_name": 106,
+    "route_long_name": "תחנה מרכזית מודיעין מכבים רעות-מודיעין מכבים רעות<->תחנה מרכזית ת''א/לוינסקי-תל אביב יפו-10",
+    "route_desc": "12106-1-0",
+    "route_type": 3,
+    "route_color": null
+  },
+  {
+    "route_id": 15251,
+    "agency_id": 18,
+    "route_short_name": 106,
+    "route_long_name": "תחנה מרכזית ת''א/לוינסקי-תל אביב יפו<->תחנה מרכזית/הורדה-מודיעין מכבים רעות-20",
+    "route_desc": "12106-2-0",
+    "route_type": 3,
+    "route_color": null
+  },
+  {
+    "route_id": 15252,
+    "agency_id": 18,
+    "route_short_name": 107,
+    "route_long_name": "תחנה מרכזית מודיעין מכבים רעות-מודיעין מכבים רעות<->מסוף האוניברסיטה-תל אביב יפו-10",
+    "route_desc": "12107-1-0",
+    "route_type": 3,
+    "route_color": null
+  },
+  {
+    "route_id": 15253,
+    "agency_id": 18,
+    "route_short_name": 107,
+    "route_long_name": "מסוף האוניברסיטה-תל אביב יפו<->תחנה מרכזית/הורדה-מודיעין מכבים רעות-20",
+    "route_desc": "12107-2-0",
+    "route_type": 3,
+    "route_color": null
+  },
+  {
+    "route_id": 9024,
+    "agency_id": 18,
+    "route_short_name": 111,
+    "route_long_name": "מסוף 2000-תל אביב יפו<->בריכה/עמק דותן-מודיעין מכבים רעות-21",
+    "route_desc": "12111-2-1",
+    "route_type": 3,
+    "route_color": null
+  },
+  {
+    "route_id": 11178,
+    "agency_id": 18,
+    "route_short_name": 111,
+    "route_long_name": "תחנה מרכזית מודיעין מכבים רעות-מודיעין מכבים רעות<->מסוף 2000-תל אביב יפו-10",
+    "route_desc": "12111-1-0",
+    "route_type": 3,
+    "route_color": null
+  },
+  {
+    "route_id": 11179,
+    "agency_id": 18,
+    "route_short_name": 111,
+    "route_long_name": "מסוף 2000-תל אביב יפו<->תחנה מרכזית/הורדה-מודיעין מכבים רעות-20",
+    "route_desc": "12111-2-0",
+    "route_type": 3,
+    "route_color": null
+  },
+  {
+    "route_id": 20750,
+    "agency_id": 18,
+    "route_short_name": 111,
+    "route_long_name": "עמק דותן/עמק יזרעאל-מודיעין מכבים רעות<->מסוף 2000-תל אביב יפו-11",
+    "route_desc": "12111-1-1",
+    "route_type": 3,
+    "route_color": null
+  },
+  {
+    "route_id": 21722,
+    "agency_id": 18,
+    "route_short_name": 111,
+    "route_long_name": "מסוף 2000-תל אביב יפו<->תחנה מרכזית/הורדה-מודיעין מכבים רעות-22",
+    "route_desc": "12111-2-2",
+    "route_type": 3,
+    "route_color": null
+  },
+  {
+    "route_id": 11200,
+    "agency_id": 18,
+    "route_short_name": 112,
+    "route_long_name": "מסוף 2000-תל אביב יפו<->תחנה מרכזית/הורדה-מודיעין מכבים רעות-20",
+    "route_desc": "12112-2-0",
+    "route_type": 3,
+    "route_color": null
+  },
+  {
+    "route_id": 21723,
+    "agency_id": 18,
+    "route_short_name": 112,
+    "route_long_name": "מסוף 2000-תל אביב יפו<->תחנה מרכזית/הורדה-מודיעין מכבים רעות-21",
+    "route_desc": "12112-2-1",
+    "route_type": 3,
+    "route_color": null
+  },
+  {
+    "route_id": 9028,
+    "agency_id": 18,
+    "route_short_name": 150,
+    "route_long_name": "דוד המלך/שלמה המלך-לוד<->תחנה מרכזית/הורדה-מודיעין מכבים רעות-21",
+    "route_desc": "12150-2-1",
+    "route_type": 3,
+    "route_color": null
+  },
+  {
+    "route_id": 11180,
+    "agency_id": 18,
+    "route_short_name": 150,
+    "route_long_name": "תחנה מרכזית מודיעין מכבים רעות-מודיעין מכבים רעות<->תחנה מרכזית רמלה-רמלה-10",
+    "route_desc": "12150-1-0",
+    "route_type": 3,
+    "route_color": null
+  },
+  {
+    "route_id": 11181,
+    "agency_id": 18,
+    "route_short_name": 150,
+    "route_long_name": "תחנה מרכזית רמלה-רמלה<->תחנה מרכזית/הורדה-מודיעין מכבים רעות-20",
+    "route_desc": "12150-2-0",
+    "route_type": 3,
+    "route_color": null
+  },
+  {
+    "route_id": 20676,
+    "agency_id": 18,
+    "route_short_name": 150,
+    "route_long_name": "עמק דותן/עמק יזרעאל-מודיעין מכבים רעות<->תחנה מרכזית רמלה-רמלה-12",
+    "route_desc": "12150-1-2",
+    "route_type": 3,
+    "route_color": null
+  },
+  {
+    "route_id": 20677,
+    "agency_id": 18,
+    "route_short_name": 150,
+    "route_long_name": "תחנה מרכזית רמלה-רמלה<->בריכה/עמק דותן-מודיעין מכבים רעות-22",
+    "route_desc": "12150-2-2",
+    "route_type": 3,
+    "route_color": null
+  },
+  {
+    "route_id": 21685,
+    "agency_id": 18,
+    "route_short_name": 150,
+    "route_long_name": "תחנה מרכזית רמלה-רמלה<->בריכה/עמק דותן-מודיעין מכבים רעות-23",
+    "route_desc": "12150-2-3",
+    "route_type": 3,
+    "route_color": null
+  },
+  {
+    "route_id": 9030,
+    "agency_id": 18,
+    "route_short_name": 152,
+    "route_long_name": "תחנה מרכזית מודיעין מכבים רעות-מודיעין מכבים רעות<->מסוף אבי האסירים-ראשון לציון-11",
+    "route_desc": "12152-1-1",
+    "route_type": 3,
+    "route_color": null
+  },
+  {
+    "route_id": 11182,
+    "agency_id": 18,
+    "route_short_name": 152,
+    "route_long_name": "תחנה מרכזית מודיעין מכבים רעות-מודיעין מכבים רעות<->מסוף אבי האסירים-ראשון לציון-10",
+    "route_desc": "12152-1-0",
+    "route_type": 3,
+    "route_color": null
+  },
+  {
+    "route_id": 11183,
+    "agency_id": 18,
+    "route_short_name": 152,
+    "route_long_name": "הרצל/אבי האסירים-ראשון לציון<->תחנה מרכזית/הורדה-מודיעין מכבים רעות-20",
+    "route_desc": "12152-2-0",
+    "route_type": 3,
+    "route_color": null
+  },
+  {
+    "route_id": 16331,
+    "agency_id": 18,
+    "route_short_name": 160,
+    "route_long_name": "תחנה מרכזית מודיעין מכבים רעות-מודיעין מכבים רעות<->הפקולטה לחקלאות-רחובות-10",
+    "route_desc": "12160-1-0",
+    "route_type": 3,
+    "route_color": null
+  },
+  {
+    "route_id": 16332,
+    "agency_id": 18,
+    "route_short_name": 160,
+    "route_long_name": "הפקולטה לחקלאות-רחובות<->תחנה מרכזית/הורדה-מודיעין מכבים רעות-20",
+    "route_desc": "12160-2-0",
+    "route_type": 3,
+    "route_color": null
+  },
+  {
+    "route_id": 11279,
+    "agency_id": 18,
+    "route_short_name": 258,
+    "route_long_name": "תחנה מרכזית מודיעין מכבים רעות-מודיעין מכבים רעות<->תחנה מרכזית באר שבע-באר שבע-10",
+    "route_desc": "12258-1-0",
+    "route_type": 3,
+    "route_color": null
+  },
+  {
+    "route_id": 11280,
+    "agency_id": 18,
+    "route_short_name": 258,
+    "route_long_name": "תחנה מרכזית באר שבע/רציפים-באר שבע<->תחנה מרכזית/הורדה-מודיעין מכבים רעות-20",
+    "route_desc": "12258-2-0",
+    "route_type": 3,
+    "route_color": null
+  },
+  {
+    "route_id": 11381,
+    "agency_id": 18,
+    "route_short_name": 258,
+    "route_long_name": "תחנה מרכזית מודיעין מכבים רעות-מודיעין מכבים רעות<->תחנה מרכזית באר שבע-באר שבע-12",
+    "route_desc": "12258-1-2",
+    "route_type": 3,
+    "route_color": null
+  },
+  {
+    "route_id": 11340,
+    "agency_id": 18,
+    "route_short_name": 105,
+    "route_long_name": "עיריית מודיעין-מסוף-מודיעין מכבים רעות<->מסוף 2000-תל אביב יפו-10",
+    "route_desc": "13105-1-0",
+    "route_type": 3,
+    "route_color": null
+  },
+  {
+    "route_id": 11341,
+    "agency_id": 18,
+    "route_short_name": 105,
+    "route_long_name": "מסוף 2000-תל אביב יפו<->עיריית מודיעין-מכבים-רעות-מודיעין מכבים רעות-20",
+    "route_desc": "13105-2-0",
+    "route_type": 3,
+    "route_color": null
+  },
+  {
+    "route_id": 11156,
+    "agency_id": 18,
+    "route_short_name": 113,
+    "route_long_name": "תחנה מרכזית מודיעין מכבים רעות-מודיעין מכבים רעות<->ביטוח לאומי-ירושלים-10",
+    "route_desc": "13113-1-0",
+    "route_type": 3,
+    "route_color": null
+  },
+  {
+    "route_id": 11344,
+    "agency_id": 18,
+    "route_short_name": 113,
+    "route_long_name": "קרית הממשלה/לורך-ירושלים<->תחנה מרכזית/הורדה-מודיעין מכבים רעות-20",
+    "route_desc": "13113-2-0",
+    "route_type": 3,
+    "route_color": null
+  },
+  {
+    "route_id": 20755,
+    "agency_id": 18,
+    "route_short_name": 113,
+    "route_long_name": "עמק דותן/עמק יזרעאל-מודיעין מכבים רעות<->ביטוח לאומי-ירושלים-11",
+    "route_desc": "13113-1-1",
+    "route_type": 3,
+    "route_color": null
+  },
+  {
+    "route_id": 20756,
+    "agency_id": 18,
+    "route_short_name": 113,
+    "route_long_name": "משרד ראש הממשלה/דרך רופין-ירושלים<->בריכה/עמק דותן-מודיעין מכבים רעות-21",
+    "route_desc": "13113-2-1",
+    "route_type": 3,
+    "route_color": null
+  },
+  {
+    "route_id": 11355,
+    "agency_id": 18,
+    "route_short_name": 114,
+    "route_long_name": "תחנה מרכזית מודיעין מכבים רעות-מודיעין מכבים רעות<->חניון הלאום-ירושלים-10",
+    "route_desc": "13114-1-0",
+    "route_type": 3,
+    "route_color": null
+  },
+  {
+    "route_id": 11357,
+    "agency_id": 18,
+    "route_short_name": 114,
+    "route_long_name": "חניון הלאום-ירושלים<->תחנה מרכזית/הורדה-מודיעין מכבים רעות-20",
+    "route_desc": "13114-2-0",
+    "route_type": 3,
+    "route_color": null
+  },
+  {
+    "route_id": 11194,
+    "agency_id": 18,
+    "route_short_name": 153,
+    "route_long_name": "הדרים- תיכון רעות מכבים-מודיעין מכבים רעות<->תחנה מרכזית רמלה-רמלה-10",
+    "route_desc": "13153-1-0",
+    "route_type": 3,
+    "route_color": "FF9933"
+  },
+  {
+    "route_id": 11195,
+    "agency_id": 18,
+    "route_short_name": 153,
+    "route_long_name": "תחנה מרכזית רמלה-רמלה<->מבוא רעות/שד. האורנים-מודיעין מכבים רעות-20",
+    "route_desc": "13153-2-0",
+    "route_type": 3,
+    "route_color": "FF9933"
+  },
+  {
+    "route_id": 9009,
+    "agency_id": 18,
+    "route_short_name": 101,
+    "route_long_name": "מסוף 2000-תל אביב יפו<->בריכה/עמק דותן-מודיעין מכבים רעות-21",
+    "route_desc": "14101-2-1",
+    "route_type": 3,
+    "route_color": null
+  },
+  {
+    "route_id": 11168,
+    "agency_id": 18,
+    "route_short_name": 101,
+    "route_long_name": "הדרים- תיכון רעות מכבים-מודיעין מכבים רעות<->מסוף 2000/דרך נמיר-תל אביב יפו-10",
+    "route_desc": "14101-1-0",
+    "route_type": 3,
+    "route_color": null
+  },
+  {
+    "route_id": 11169,
+    "agency_id": 18,
+    "route_short_name": 101,
+    "route_long_name": "מסוף 2000-תל אביב יפו<->בריכה/עמק דותן-מודיעין מכבים רעות-20",
+    "route_desc": "14101-2-0",
+    "route_type": 3,
+    "route_color": null
+  },
+  {
+    "route_id": 11172,
+    "agency_id": 18,
+    "route_short_name": 103,
+    "route_long_name": "לוי/יצחק רבין-מודיעין מכבים רעות<->מסוף 2000-תל אביב יפו-10",
+    "route_desc": "14103-1-0",
+    "route_type": 3,
+    "route_color": null
+  },
+  {
+    "route_id": 11275,
+    "agency_id": 18,
+    "route_short_name": 103,
+    "route_long_name": "מסוף 2000-תל אביב יפו<->שבטי ישראל/לוי-מודיעין מכבים רעות-20",
+    "route_desc": "14103-2-0",
+    "route_type": 3,
+    "route_color": null
+  },
+  {
+    "route_id": 11342,
+    "agency_id": 18,
+    "route_short_name": 154,
+    "route_long_name": "תחנה מרכזית מודיעין מכבים רעות-מודיעין מכבים רעות<->מסוף אבי האסירים-ראשון לציון-10",
+    "route_desc": "14154-1-0",
+    "route_type": 3,
+    "route_color": null
+  },
+  {
+    "route_id": 11343,
+    "agency_id": 18,
+    "route_short_name": 154,
+    "route_long_name": "הרצל/אבי האסירים-ראשון לציון<->תחנה מרכזית/הורדה-מודיעין מכבים רעות-20",
+    "route_desc": "14154-2-0",
+    "route_type": 3,
+    "route_color": null
+  },
+  {
+    "route_id": 11205,
+    "agency_id": 18,
+    "route_short_name": 222,
+    "route_long_name": "מבוא רעות/שד. האורנים-מודיעין מכבים רעות<->מסוף רידינג-תל אביב יפו-10",
+    "route_desc": "14222-1-0",
+    "route_type": 3,
+    "route_color": "9933FF"
+  },
+  {
+    "route_id": 11206,
+    "agency_id": 18,
+    "route_short_name": 222,
+    "route_long_name": "רדינג-תל אביב יפו<->מבוא רעות/שד. האורנים-מודיעין מכבים רעות-20",
+    "route_desc": "14222-2-0",
+    "route_type": 3,
+    "route_color": "9933FF"
+  },
+  {
+    "route_id": 11338,
+    "agency_id": 18,
+    "route_short_name": 104,
+    "route_long_name": "עיריית מודיעין-מסוף-מודיעין מכבים רעות<->מסוף 2000-תל אביב יפו-10",
+    "route_desc": "15104-1-0",
+    "route_type": 3,
+    "route_color": null
+  },
+  {
+    "route_id": 11339,
+    "agency_id": 18,
+    "route_short_name": 104,
+    "route_long_name": "מסוף 2000-תל אביב יפו<->עיריית מודיעין-מכבים-רעות-מודיעין מכבים רעות-20",
+    "route_desc": "15104-2-0",
+    "route_type": 3,
+    "route_color": null
+  },
+  {
+    "route_id": 20112,
+    "agency_id": 18,
+    "route_short_name": 108,
+    "route_long_name": "תחנה מרכזית מודיעין מכבים רעות-מודיעין מכבים רעות<->דבורה הנביאה/ראול ולנברג-תל אביב יפו-10",
+    "route_desc": "20108-1-0",
+    "route_type": 3,
+    "route_color": null
+  },
+  {
+    "route_id": 20113,
+    "agency_id": 18,
+    "route_short_name": 108,
+    "route_long_name": "עתידים-תל אביב יפו<->תחנה מרכזית/הורדה-מודיעין מכבים רעות-20",
+    "route_desc": "20108-2-0",
+    "route_type": 3,
+    "route_color": null
+  },
+  {
+    "route_id": 11209,
+    "agency_id": 18,
+    "route_short_name": 19,
+    "route_long_name": "תחנה מרכזית מודיעין מכבים רעות-מודיעין מכבים רעות<->מזכירות-מבוא חורון-10",
+    "route_desc": "22019-1-0",
+    "route_type": 3,
+    "route_color": null
+  },
+  {
+    "route_id": 11210,
+    "agency_id": 18,
+    "route_short_name": 19,
+    "route_long_name": "מזכירות-מבוא חורון<->תחנה מרכזית/הורדה-מודיעין מכבים רעות-20",
+    "route_desc": "22019-2-0",
+    "route_type": 3,
+    "route_color": null
+  },
+  {
+    "route_id": 11371,
+    "agency_id": 18,
+    "route_short_name": 27,
+    "route_long_name": "תחנה מרכזית מודיעין מכבים רעות-מודיעין מכבים רעות<->מוריה/הכרמל-חשמונאים-10",
+    "route_desc": "22027-1-0",
+    "route_type": 3,
+    "route_color": null
+  },
+  {
+    "route_id": 11372,
+    "agency_id": 18,
+    "route_short_name": 27,
+    "route_long_name": "מוריה/הכרמל-חשמונאים<->תחנה מרכזית/הורדה-מודיעין מכבים רעות-20",
+    "route_desc": "22027-2-0",
+    "route_type": 3,
+    "route_color": null
+  },
+  {
+    "route_id": 16325,
+    "agency_id": 18,
+    "route_short_name": 27,
+    "route_long_name": "מוריה/הכרמל-חשמונאים<->תחנה מרכזית/הורדה-מודיעין מכבים רעות-21",
+    "route_desc": "22027-2-1",
+    "route_type": 3,
+    "route_color": null
+  },
+  {
+    "route_id": 16366,
+    "agency_id": 18,
+    "route_short_name": 27,
+    "route_long_name": "תחנה מרכזית מודיעין מכבים רעות-מודיעין מכבים רעות<->מוריה/הכרמל-חשמונאים-11",
+    "route_desc": "22027-1-1",
+    "route_type": 3,
+    "route_color": null
+  },
+  {
+    "route_id": 11347,
+    "agency_id": 18,
+    "route_short_name": 33,
+    "route_long_name": "יצחק רבין /נחל צלמון-מודיעין מכבים רעות<->עירייה-מודיעין מכבים רעות-20",
+    "route_desc": "25033-2-0",
+    "route_type": 3,
+    "route_color": "FF9933"
+  },
+  {
+    "route_id": 8360,
+    "agency_id": 18,
+    "route_short_name": 18,
+    "route_long_name": "תחנה מרכזית רמלה/רציפים-רמלה<->תחנה מרכזית/הורדה-מודיעין מכבים רעות-11",
+    "route_desc": "26018-1-1",
+    "route_type": 3,
+    "route_color": null
+  },
+  {
+    "route_id": 11908,
+    "agency_id": 18,
+    "route_short_name": 18,
+    "route_long_name": "תחנה מרכזית רמלה-רמלה<->תחנה מרכזית/הורדה-מודיעין מכבים רעות-10",
+    "route_desc": "26018-1-0",
+    "route_type": 3,
+    "route_color": null
+  },
+  {
+    "route_id": 11909,
+    "agency_id": 18,
+    "route_short_name": 18,
+    "route_long_name": "תחנה מרכזית מודיעין מכבים רעות-מודיעין מכבים רעות<->תחנה מרכזית רמלה-רמלה-20",
+    "route_desc": "26018-2-0",
+    "route_type": 3,
+    "route_color": null
+  },
+  {
+    "route_id": 21656,
+    "agency_id": 18,
+    "route_short_name": 18,
+    "route_long_name": "תחנה מרכזית מודיעין מכבים רעות-מודיעין מכבים רעות<->תחנה מרכזית רמלה-רמלה-21",
+    "route_desc": "26018-2-1",
+    "route_type": 3,
+    "route_color": null
+  },
+  {
+    "route_id": 11345,
+    "agency_id": 18,
+    "route_short_name": 28,
+    "route_long_name": "תחנה מרכזית מודיעין מכבים רעות-מודיעין מכבים רעות<->כפר רות-כפר רות-10",
+    "route_desc": "26028-1-0",
+    "route_type": 3,
+    "route_color": null
+  },
+  {
+    "route_id": 11346,
+    "agency_id": 18,
+    "route_short_name": 28,
+    "route_long_name": "כפר רות-כפר רות<->תחנה מרכזית/הורדה-מודיעין מכבים רעות-20",
+    "route_desc": "26028-2-0",
+    "route_type": 3,
+    "route_color": null
+  },
+  {
+    "route_id": 11483,
+    "agency_id": 18,
+    "route_short_name": 32,
+    "route_long_name": "תכלת /אבני חושן-מודיעין מכבים רעות<->יצחק רבין /נחל צלמון-מודיעין מכבים רעות-10",
+    "route_desc": "26032-1-0",
+    "route_type": 3,
+    "route_color": "FF9933"
+  },
+  {
+    "route_id": 11351,
+    "agency_id": 18,
+    "route_short_name": 88,
+    "route_long_name": "דרך מנחם בגין/אסתר המלכה-מודיעין מכבים רעות<->תשרי/חשון-מודיעין מכבים רעות-10",
+    "route_desc": "27088-1-0",
+    "route_type": 3,
+    "route_color": "FF9933"
+  },
+  {
+    "route_id": 11352,
+    "agency_id": 18,
+    "route_short_name": 88,
+    "route_long_name": "תשרי/חשון-מודיעין מכבים רעות<->דרך מנחם בגין/אסתר המלכה-מודיעין מכבים רעות-20",
+    "route_desc": "27088-2-0",
+    "route_type": 3,
+    "route_color": "FF9933"
+  },
+  {
+    "route_id": 20664,
+    "agency_id": 18,
+    "route_short_name": 59,
+    "route_long_name": "עיריית מודיעין-מסוף-מודיעין מכבים רעות<->דרך מנחם בגין-מסוף-מודיעין מכבים רעות-10",
+    "route_desc": "30059-1-0",
+    "route_type": 3,
+    "route_color": null
+  },
+  {
+    "route_id": 20665,
+    "agency_id": 18,
+    "route_short_name": 59,
+    "route_long_name": "דרך מנחם בגין-מסוף-מודיעין מכבים רעות<->עיריית מודיעין-מכבים-רעות-מודיעין מכבים רעות-20",
+    "route_desc": "30059-2-0",
+    "route_type": 3,
+    "route_color": null
+  },
+  {
+    "route_id": 11482,
+    "agency_id": 18,
+    "route_short_name": 94,
+    "route_long_name": "ערבי נחל/בשן-מודיעין מכבים רעות<->נהר הירדן/מעלה עמיעז-מודיעין מכבים רעות-20",
+    "route_desc": "30094-2-0",
+    "route_type": 3,
+    "route_color": "FF9933"
+  },
+  {
+    "route_id": 11363,
+    "agency_id": 18,
+    "route_short_name": 90,
+    "route_long_name": "יובלים/נחל דן-מודיעין מכבים רעות<->הדרים- תיכון רעות מכבים-מודיעין מכבים רעות-10",
+    "route_desc": "31090-1-0",
+    "route_type": 3,
+    "route_color": "FF9933"
+  },
+  {
+    "route_id": 11364,
+    "agency_id": 18,
+    "route_short_name": 90,
+    "route_long_name": "תיכון רעות מכבים-מודיעין מכבים רעות<->פשוש/לביא-מודיעין מכבים רעות-20",
+    "route_desc": "31090-2-0",
+    "route_type": 3,
+    "route_color": "FF9933"
+  },
+  {
+    "route_id": 11348,
+    "agency_id": 18,
+    "route_short_name": 92,
+    "route_long_name": "נהר הירדן/מעלה גדעון-מודיעין מכבים רעות<->דרך ד''ר ישראל פלד/כנרית-מודיעין מכבים רעות-10",
+    "route_desc": "31092-1-0",
+    "route_type": 3,
+    "route_color": "FF9933"
+  },
+  {
+    "route_id": 20647,
+    "agency_id": 18,
+    "route_short_name": 51,
+    "route_long_name": "עיריית מודיעין-מסוף-מודיעין מכבים רעות<->תחנה מרכזית/הורדה-מודיעין מכבים רעות-10",
+    "route_desc": "32051-1-0",
+    "route_type": 3,
+    "route_color": null
+  },
+  {
+    "route_id": 20648,
+    "agency_id": 18,
+    "route_short_name": 51,
+    "route_long_name": "תחנה מרכזית מודיעין מכבים רעות-מודיעין מכבים רעות<->עיריית מודיעין-מכבים-רעות-מודיעין מכבים רעות-20",
+    "route_desc": "32051-2-0",
+    "route_type": 3,
+    "route_color": null
+  },
+  {
+    "route_id": 21179,
+    "agency_id": 18,
+    "route_short_name": 51,
+    "route_long_name": "עיריית מודיעין-מסוף-מודיעין מכבים רעות<->שדרות החשמונאים/לב העיר-מודיעין מכבים רעות-11",
+    "route_desc": "32051-1-1",
+    "route_type": 3,
+    "route_color": null
+  },
+  {
+    "route_id": 21180,
+    "agency_id": 18,
+    "route_short_name": 51,
+    "route_long_name": "קניון עזריאלי-מודיעין מכבים רעות<->עיריית מודיעין-מכבים-רעות-מודיעין מכבים רעות-21",
+    "route_desc": "32051-2-1",
+    "route_type": 3,
+    "route_color": null
+  },
+  {
+    "route_id": 20662,
+    "agency_id": 18,
+    "route_short_name": 58,
+    "route_long_name": "בי''ס כרמים/עמק חרוד-מודיעין מכבים רעות<->דרך מנחם בגין-מסוף-מודיעין מכבים רעות-10",
+    "route_desc": "32058-1-0",
+    "route_type": 3,
+    "route_color": null
+  },
+  {
+    "route_id": 20663,
+    "agency_id": 18,
+    "route_short_name": 58,
+    "route_long_name": "דרך מנחם בגין-מסוף-מודיעין מכבים רעות<->בי''ס כרמים/עמק חרוד-מודיעין מכבים רעות-20",
+    "route_desc": "32058-2-0",
+    "route_type": 3,
+    "route_color": null
+  },
+  {
+    "route_id": 21162,
+    "agency_id": 18,
+    "route_short_name": 95,
+    "route_long_name": "נהר הירדן/נחל ציפורי-מודיעין מכבים רעות<->דם המכבים /חרצית-מודיעין מכבים רעות-10",
+    "route_desc": "32095-1-0",
+    "route_type": 3,
+    "route_color": "FF9933"
+  },
+  {
+    "route_id": 21163,
+    "agency_id": 18,
+    "route_short_name": 95,
+    "route_long_name": "דם המכבים/צאלון-מודיעין מכבים רעות<->נהר הירדן /נחל זוהר-מודיעין מכבים רעות-20",
+    "route_desc": "32095-2-0",
+    "route_type": 3,
+    "route_color": "FF9933"
+  },
+  {
+    "route_id": 20651,
+    "agency_id": 18,
+    "route_short_name": 53,
+    "route_long_name": "בי''ס כרמים/עמק חרוד-מודיעין מכבים רעות<->אולפנה/לוי-מודיעין מכבים רעות-10",
+    "route_desc": "34053-1-0",
+    "route_type": 3,
+    "route_color": null
+  },
+  {
+    "route_id": 20652,
+    "agency_id": 18,
+    "route_short_name": 53,
+    "route_long_name": "יצחק רבין /נחל צלמון-מודיעין מכבים רעות<->בי''ס כרמים/עמק חרוד-מודיעין מכבים רעות-20",
+    "route_desc": "34053-2-0",
+    "route_type": 3,
+    "route_color": null
+  },
+  {
+    "route_id": 11379,
+    "agency_id": 18,
+    "route_short_name": 86,
+    "route_long_name": "דרך ד''ר ישראל פלד/כנרית-מודיעין מכבים רעות<->בריכה/עמק דותן-מודיעין מכבים רעות-20",
+    "route_desc": "34086-2-0",
+    "route_type": 3,
+    "route_color": "FF9933"
+  },
+  {
+    "route_id": 11369,
+    "agency_id": 18,
+    "route_short_name": 91,
+    "route_long_name": "נהר הירדן/מעלה גדעון-מודיעין מכבים רעות<->תיכון רעות מכבים-מודיעין מכבים רעות-10",
+    "route_desc": "34091-1-0",
+    "route_type": 3,
+    "route_color": "FF9933"
+  },
+  {
+    "route_id": 11370,
+    "agency_id": 18,
+    "route_short_name": 91,
+    "route_long_name": "הדרים- תיכון רעות מכבים-מודיעין מכבים רעות<->נהר הירדן/מעלה עמיעז-מודיעין מכבים רעות-20",
+    "route_desc": "34091-2-0",
+    "route_type": 3,
+    "route_color": "FF9933"
+  },
+  {
+    "route_id": 17925,
+    "agency_id": 18,
+    "route_short_name": 99,
+    "route_long_name": "צומת חטיבה שבע/לטרון-מטה בנימין<->תחנה מרכזית/הורדה-מודיעין מכבים רעות-10",
+    "route_desc": "34099-1-0",
+    "route_type": 3,
+    "route_color": null
+  },
+  {
+    "route_id": 17926,
+    "agency_id": 18,
+    "route_short_name": 99,
+    "route_long_name": "תחנה מרכזית מודיעין מכבים רעות-מודיעין מכבים רעות<->צומת חטיבה שבע-מטה יהודה-20",
+    "route_desc": "34099-2-0",
+    "route_type": 3,
+    "route_color": null
+  },
+  {
+    "route_id": 20660,
+    "agency_id": 18,
+    "route_short_name": 56,
+    "route_long_name": "עיריית מודיעין-מסוף-מודיעין מכבים רעות<->שדרות המלאכות/האופה-מודיעין מכבים רעות-10",
+    "route_desc": "36056-1-0",
+    "route_type": 3,
+    "route_color": null
+  },
+  {
+    "route_id": 20661,
+    "agency_id": 18,
+    "route_short_name": 56,
+    "route_long_name": "שדרות המלאכות/החרוט-מודיעין מכבים רעות<->עיריית מודיעין-מכבים-רעות-מודיעין מכבים רעות-20",
+    "route_desc": "36056-2-0",
+    "route_type": 3,
+    "route_color": null
+  },
+  {
+    "route_id": 20692,
+    "agency_id": 18,
+    "route_short_name": 50,
+    "route_long_name": "עיריית מודיעין-מסוף-מודיעין מכבים רעות<->דרך מנחם בגין-מסוף-מודיעין מכבים רעות-10",
+    "route_desc": "37050-1-0",
+    "route_type": 3,
+    "route_color": null
+  },
+  {
+    "route_id": 20693,
+    "agency_id": 18,
+    "route_short_name": 50,
+    "route_long_name": "דרך מנחם בגין-מסוף-מודיעין מכבים רעות<->עיריית מודיעין-מכבים-רעות-מודיעין מכבים רעות-20",
+    "route_desc": "37050-2-0",
+    "route_type": 3,
+    "route_color": null
+  },
+  {
+    "route_id": 11367,
+    "agency_id": 18,
+    "route_short_name": 84,
+    "route_long_name": "יובלים/נחל המעיינות-מודיעין מכבים רעות<->חשון/שבט-מודיעין מכבים רעות-10",
+    "route_desc": "37084-1-0",
+    "route_type": 3,
+    "route_color": "FF9933"
+  },
+  {
+    "route_id": 11368,
+    "agency_id": 18,
+    "route_short_name": 84,
+    "route_long_name": "תשרי/חשון-מודיעין מכבים רעות<->יובלים/נחל דן-מודיעין מכבים רעות-20",
+    "route_desc": "37084-2-0",
+    "route_type": 3,
+    "route_color": "FF9933"
+  },
+  {
+    "route_id": 17416,
+    "agency_id": 18,
+    "route_short_name": 93,
+    "route_long_name": "יהלום/תרשיש-מודיעין מכבים רעות<->יהודה/ראובן-מודיעין מכבים רעות-10",
+    "route_desc": "38093-1-0",
+    "route_type": 3,
+    "route_color": "FF9933"
+  },
+  {
+    "route_id": 11365,
+    "agency_id": 18,
+    "route_short_name": 85,
+    "route_long_name": "עיריית מודיעין-מסוף-מודיעין מכבים רעות<->בי''ס גלבוע-מודיעין מכבים רעות-10",
+    "route_desc": "40085-1-0",
+    "route_type": 3,
+    "route_color": "FF9933"
+  },
+  {
+    "route_id": 11366,
+    "agency_id": 18,
+    "route_short_name": 85,
+    "route_long_name": "בי''ס גלבוע-מודיעין מכבים רעות<->עיריית מודיעין-מכבים-רעות-מודיעין מכבים רעות-20",
+    "route_desc": "40085-2-0",
+    "route_type": 3,
+    "route_color": "FF9933"
+  },
+  {
+    "route_id": 11349,
+    "agency_id": 18,
+    "route_short_name": 87,
+    "route_long_name": "זכריה הנביא/עמק האלה-מודיעין מכבים רעות<->בי''ס גלבוע-מודיעין מכבים רעות-10",
+    "route_desc": "40087-1-0",
+    "route_type": 3,
+    "route_color": "FF9933"
+  },
+  {
+    "route_id": 11350,
+    "agency_id": 18,
+    "route_short_name": 87,
+    "route_long_name": "בי''ס גלבוע/ערבי נחל-מודיעין מכבים רעות<->זכריה הנביא/עמק האלה-מודיעין מכבים רעות-20",
+    "route_desc": "40087-2-0",
+    "route_type": 3,
+    "route_color": "FF9933"
+  },
+  {
+    "route_id": 20653,
+    "agency_id": 18,
+    "route_short_name": 54,
+    "route_long_name": "בי''ס כרמים/עמק חרוד-מודיעין מכבים רעות<->הדרים- תיכון רעות מכבים-מודיעין מכבים רעות-10",
+    "route_desc": "41054-1-0",
+    "route_type": 3,
+    "route_color": null
+  },
+  {
+    "route_id": 20654,
+    "agency_id": 18,
+    "route_short_name": 54,
+    "route_long_name": "בי''ס כרמים/עמק חרוד-מודיעין מכבים רעות<->הדרים- תיכון רעות מכבים-מודיעין מכבים רעות-11",
+    "route_desc": "41054-1-1",
+    "route_type": 3,
+    "route_color": null
+  },
+  {
+    "route_id": 20655,
+    "agency_id": 18,
+    "route_short_name": 54,
+    "route_long_name": "הדרים- תיכון רעות מכבים-מודיעין מכבים רעות<->בי''ס כרמים/עמק חרוד-מודיעין מכבים רעות-20",
+    "route_desc": "41054-2-0",
+    "route_type": 3,
+    "route_color": null
+  },
+  {
+    "route_id": 20656,
+    "agency_id": 18,
+    "route_short_name": 54,
+    "route_long_name": "הדרים- תיכון רעות מכבים-מודיעין מכבים רעות<->בי''ס כרמים/עמק חרוד-מודיעין מכבים רעות-21",
+    "route_desc": "41054-2-1",
+    "route_type": 3,
+    "route_color": null
+  },
+  {
+    "route_id": 11373,
+    "agency_id": 18,
+    "route_short_name": 83,
+    "route_long_name": "דרך ד''ר ישראל פלד/כנרית-מודיעין מכבים רעות<->עיריית מודיעין-מכבים-רעות-מודיעין מכבים רעות-20",
+    "route_desc": "41083-2-0",
+    "route_type": 3,
+    "route_color": "FF9933"
+  },
+  {
+    "route_id": 11337,
+    "agency_id": 18,
+    "route_short_name": 81,
+    "route_long_name": "עיריית מודיעין-מסוף-מודיעין מכבים רעות<->דרך מנחם בגין-מודיעין מכבים רעות-10",
+    "route_desc": "43081-1-0",
+    "route_type": 3,
+    "route_color": "FF9933"
+  },
+  {
+    "route_id": 11377,
+    "agency_id": 18,
+    "route_short_name": 81,
+    "route_long_name": "בי''ס אריאל ממ''ד/דרך מנחם בגין-מודיעין מכבים רעות<->עיריית מודיעין-מכבים-רעות-מודיעין מכבים רעות-20",
+    "route_desc": "43081-2-0",
+    "route_type": 3,
+    "route_color": "FF9933"
+  },
+  {
+    "route_id": 21164,
+    "agency_id": 18,
+    "route_short_name": 96,
+    "route_long_name": "דם המכבים/צאלון-מודיעין מכבים רעות<->עמק זבולון/חטיבה שבע-מודיעין מכבים רעות-20",
+    "route_desc": "43096-2-0",
+    "route_type": 3,
+    "route_color": "FF9933"
+  },
+  {
+    "route_id": 11375,
+    "agency_id": 18,
+    "route_short_name": 82,
+    "route_long_name": "שבטי ישראל/יהודה-מודיעין מכבים רעות<->משה דיין/עמק בית שאן-מודיעין מכבים רעות-20",
+    "route_desc": "44082-2-0",
+    "route_type": 3,
+    "route_color": "FF9933"
+  },
+  {
+    "route_id": 20658,
+    "agency_id": 18,
+    "route_short_name": 55,
+    "route_long_name": "השדרה המרכזית/הזריחה-מודיעין מכבים רעות<->תחנה מרכזית/הורדה-מודיעין מכבים רעות-10",
+    "route_desc": "46055-1-0",
+    "route_type": 3,
+    "route_color": null
+  },
+  {
+    "route_id": 20659,
+    "agency_id": 18,
+    "route_short_name": 55,
+    "route_long_name": "תחנה מרכזית מודיעין מכבים רעות-מודיעין מכבים רעות<->החווה האקולוגית/השדרה המרכזית-מודיעין מכבים רעות-20",
+    "route_desc": "46055-2-0",
+    "route_type": 3,
+    "route_color": null
+  },
+  {
+    "route_id": 11374,
+    "agency_id": 18,
+    "route_short_name": 80,
+    "route_long_name": "עיריית מודיעין-מסוף-מודיעין מכבים רעות<->דרך ד''ר ישראל פלד/כנרית-מודיעין מכבים רעות-10",
+    "route_desc": "46080-1-0",
+    "route_type": 3,
+    "route_color": "FF9933"
+  },
+  {
+    "route_id": 10157,
+    "agency_id": 25,
+    "route_short_name": 291,
+    "route_long_name": "מגרש כדורגל-אריאל<->תחנה מרכזית/הורדה-מודיעין מכבים רעות-1#",
+    "route_desc": "13291-1-#",
+    "route_type": 3,
+    "route_color": null
+  },
+  {
+    "route_id": 10158,
+    "agency_id": 25,
+    "route_short_name": 291,
+    "route_long_name": "תחנה מרכזית מודיעין מכבים רעות-מודיעין מכבים רעות<->אוניברסיטת אריאל/כביש 31-אריאל-2#",
+    "route_desc": "13291-2-#",
+    "route_type": 3,
+    "route_color": null
+  }
+]

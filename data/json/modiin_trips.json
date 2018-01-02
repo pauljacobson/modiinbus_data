@@ -1,0 +1,4770 @@
+[
+  {
+    "route_id": 9009,
+    "service_id": 54536941,
+    "trip_id": 2328102281217,
+    "trip_headsign": "מודיעין מכבים רעות _ הנחלים",
+    "direction_id": true,
+    "shape_id": 88062
+  },
+  {
+    "route_id": 10157,
+    "service_id": 54539101,
+    "trip_id": 5109290281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": false,
+    "shape_id": 84676
+  },
+  {
+    "route_id": 11169,
+    "service_id": 54536942,
+    "trip_id": 10230038281217,
+    "trip_headsign": "מודיעין מכבים רעות _ הנחלים",
+    "direction_id": true,
+    "shape_id": 84074
+  },
+  {
+    "route_id": 11200,
+    "service_id": 54537012,
+    "trip_id": 10232241281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86650
+  },
+  {
+    "route_id": 11200,
+    "service_id": 54537012,
+    "trip_id": 10232242281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86650
+  },
+  {
+    "route_id": 11200,
+    "service_id": 54537012,
+    "trip_id": 10232244281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86650
+  },
+  {
+    "route_id": 11200,
+    "service_id": 54537012,
+    "trip_id": 10232240281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86650
+  },
+  {
+    "route_id": 11200,
+    "service_id": 54537012,
+    "trip_id": 10232243281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86650
+  },
+  {
+    "route_id": 11200,
+    "service_id": 54537012,
+    "trip_id": 10232245281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86650
+  },
+  {
+    "route_id": 11200,
+    "service_id": 54537012,
+    "trip_id": 10232246281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86650
+  },
+  {
+    "route_id": 11200,
+    "service_id": 54537012,
+    "trip_id": 10232247281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86650
+  },
+  {
+    "route_id": 11200,
+    "service_id": 54537012,
+    "trip_id": 10232248281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86650
+  },
+  {
+    "route_id": 11200,
+    "service_id": 54537012,
+    "trip_id": 10232249281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86650
+  },
+  {
+    "route_id": 11359,
+    "service_id": 54544146,
+    "trip_id": 10426556281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86659
+  },
+  {
+    "route_id": 11359,
+    "service_id": 54544146,
+    "trip_id": 10426557281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86659
+  },
+  {
+    "route_id": 11359,
+    "service_id": 54544145,
+    "trip_id": 10426546281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86659
+  },
+  {
+    "route_id": 11359,
+    "service_id": 54544145,
+    "trip_id": 10426551281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86659
+  },
+  {
+    "route_id": 11359,
+    "service_id": 54544145,
+    "trip_id": 10426541281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86659
+  },
+  {
+    "route_id": 11197,
+    "service_id": 54537010,
+    "trip_id": 10426578281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86649
+  },
+  {
+    "route_id": 11197,
+    "service_id": 54537010,
+    "trip_id": 10426558281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86649
+  },
+  {
+    "route_id": 11197,
+    "service_id": 54537010,
+    "trip_id": 10426559281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86649
+  },
+  {
+    "route_id": 11197,
+    "service_id": 54537010,
+    "trip_id": 10426568281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86649
+  },
+  {
+    "route_id": 11197,
+    "service_id": 54537010,
+    "trip_id": 10426573281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86649
+  },
+  {
+    "route_id": 11357,
+    "service_id": 54544144,
+    "trip_id": 10429983281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 90197
+  },
+  {
+    "route_id": 11357,
+    "service_id": 54544144,
+    "trip_id": 10429988281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 90197
+  },
+  {
+    "route_id": 11275,
+    "service_id": 54536943,
+    "trip_id": 10453866281217,
+    "trip_headsign": "מודיעין מכבים רעות _ השבטים",
+    "direction_id": true,
+    "shape_id": 88061
+  },
+  {
+    "route_id": 11275,
+    "service_id": 54536943,
+    "trip_id": 10453865281217,
+    "trip_headsign": "מודיעין מכבים רעות _ השבטים",
+    "direction_id": true,
+    "shape_id": 88061
+  },
+  {
+    "route_id": 11275,
+    "service_id": 54536943,
+    "trip_id": 10453867281217,
+    "trip_headsign": "מודיעין מכבים רעות _ השבטים",
+    "direction_id": true,
+    "shape_id": 88061
+  },
+  {
+    "route_id": 9028,
+    "service_id": 54537000,
+    "trip_id": 11211217281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 87218
+  },
+  {
+    "route_id": 9028,
+    "service_id": 54537001,
+    "trip_id": 11211226281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 87218
+  },
+  {
+    "route_id": 9028,
+    "service_id": 54537000,
+    "trip_id": 11211216281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 87218
+  },
+  {
+    "route_id": 11361,
+    "service_id": 54544149,
+    "trip_id": 11563793281217,
+    "trip_headsign": "מודיעין מכבים רעות _ אבני חן",
+    "direction_id": true,
+    "shape_id": 73393
+  },
+  {
+    "route_id": 11361,
+    "service_id": 54544149,
+    "trip_id": 11563792281217,
+    "trip_headsign": "מודיעין מכבים רעות _ אבני חן",
+    "direction_id": true,
+    "shape_id": 73393
+  },
+  {
+    "route_id": 11341,
+    "service_id": 54543786,
+    "trip_id": 11944460281217,
+    "trip_headsign": "מודיעין מכבים רעות _ עירייה",
+    "direction_id": true,
+    "shape_id": 89061
+  },
+  {
+    "route_id": 11341,
+    "service_id": 54543786,
+    "trip_id": 11944461281217,
+    "trip_headsign": "מודיעין מכבים רעות _ עירייה",
+    "direction_id": true,
+    "shape_id": 89061
+  },
+  {
+    "route_id": 11341,
+    "service_id": 54543786,
+    "trip_id": 11944462281217,
+    "trip_headsign": "מודיעין מכבים רעות _ עירייה",
+    "direction_id": true,
+    "shape_id": 89061
+  },
+  {
+    "route_id": 11343,
+    "service_id": 54543788,
+    "trip_id": 11945238281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86652
+  },
+  {
+    "route_id": 11343,
+    "service_id": 54543788,
+    "trip_id": 11945239281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86652
+  },
+  {
+    "route_id": 11343,
+    "service_id": 54543788,
+    "trip_id": 11945240281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86652
+  },
+  {
+    "route_id": 11343,
+    "service_id": 54543788,
+    "trip_id": 11945241281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86652
+  },
+  {
+    "route_id": 11339,
+    "service_id": 54543784,
+    "trip_id": 11946387281217,
+    "trip_headsign": "מודיעין מכבים רעות _ עירייה",
+    "direction_id": true,
+    "shape_id": 88058
+  },
+  {
+    "route_id": 11339,
+    "service_id": 54543784,
+    "trip_id": 11946386281217,
+    "trip_headsign": "מודיעין מכבים רעות _ עירייה",
+    "direction_id": true,
+    "shape_id": 88058
+  },
+  {
+    "route_id": 11339,
+    "service_id": 54543784,
+    "trip_id": 11946388281217,
+    "trip_headsign": "מודיעין מכבים רעות _ עירייה",
+    "direction_id": true,
+    "shape_id": 88058
+  },
+  {
+    "route_id": 11339,
+    "service_id": 54543784,
+    "trip_id": 11946401281217,
+    "trip_headsign": "מודיעין מכבים רעות _ עירייה",
+    "direction_id": true,
+    "shape_id": 88058
+  },
+  {
+    "route_id": 11206,
+    "service_id": 54537015,
+    "trip_id": 14972548281217,
+    "trip_headsign": "מודיעין מכבים רעות _ רעות",
+    "direction_id": true,
+    "shape_id": 59535
+  },
+  {
+    "route_id": 11206,
+    "service_id": 54537015,
+    "trip_id": 14972549281217,
+    "trip_headsign": "מודיעין מכבים רעות _ רעות",
+    "direction_id": true,
+    "shape_id": 59535
+  },
+  {
+    "route_id": 11206,
+    "service_id": 54537015,
+    "trip_id": 14972555281217,
+    "trip_headsign": "מודיעין מכבים רעות _ רעות",
+    "direction_id": true,
+    "shape_id": 59535
+  },
+  {
+    "route_id": 11206,
+    "service_id": 54537015,
+    "trip_id": 14972550281217,
+    "trip_headsign": "מודיעין מכבים רעות _ רעות",
+    "direction_id": true,
+    "shape_id": 59535
+  },
+  {
+    "route_id": 11206,
+    "service_id": 54537015,
+    "trip_id": 14972551281217,
+    "trip_headsign": "מודיעין מכבים רעות _ רעות",
+    "direction_id": true,
+    "shape_id": 59535
+  },
+  {
+    "route_id": 11206,
+    "service_id": 54537015,
+    "trip_id": 14972552281217,
+    "trip_headsign": "מודיעין מכבים רעות _ רעות",
+    "direction_id": true,
+    "shape_id": 59535
+  },
+  {
+    "route_id": 15253,
+    "service_id": 54548780,
+    "trip_id": 15389022281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86675
+  },
+  {
+    "route_id": 13752,
+    "service_id": 54547456,
+    "trip_id": 16139947311217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": false,
+    "shape_id": 86339
+  },
+  {
+    "route_id": 15629,
+    "service_id": 54549098,
+    "trip_id": 16930520281217,
+    "trip_headsign": "מודיעין מכבים רעות _ הנחלים",
+    "direction_id": true,
+    "shape_id": 89109
+  },
+  {
+    "route_id": 15629,
+    "service_id": 54549098,
+    "trip_id": 16930518281217,
+    "trip_headsign": "מודיעין מכבים רעות _ הנחלים",
+    "direction_id": true,
+    "shape_id": 89109
+  },
+  {
+    "route_id": 15629,
+    "service_id": 54549098,
+    "trip_id": 16930516281217,
+    "trip_headsign": "מודיעין מכבים רעות _ הנחלים",
+    "direction_id": true,
+    "shape_id": 89109
+  },
+  {
+    "route_id": 11280,
+    "service_id": 54544085,
+    "trip_id": 17075928281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86655
+  },
+  {
+    "route_id": 11280,
+    "service_id": 54544085,
+    "trip_id": 17075929281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86655
+  },
+  {
+    "route_id": 11280,
+    "service_id": 54544084,
+    "trip_id": 17075924281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86655
+  },
+  {
+    "route_id": 14610,
+    "service_id": 54546829,
+    "trip_id": 18581153010118,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86349
+  },
+  {
+    "route_id": 14610,
+    "service_id": 54546831,
+    "trip_id": 18581154281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86349
+  },
+  {
+    "route_id": 14610,
+    "service_id": 54546831,
+    "trip_id": 18581155281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86349
+  },
+  {
+    "route_id": 14610,
+    "service_id": 54546829,
+    "trip_id": 18581154010118,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86349
+  },
+  {
+    "route_id": 14610,
+    "service_id": 54546829,
+    "trip_id": 18581155010118,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86349
+  },
+  {
+    "route_id": 14610,
+    "service_id": 54546831,
+    "trip_id": 18581153281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86349
+  },
+  {
+    "route_id": 16332,
+    "service_id": 54550773,
+    "trip_id": 19160698281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86661
+  },
+  {
+    "route_id": 16332,
+    "service_id": 54550773,
+    "trip_id": 19160703281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86661
+  },
+  {
+    "route_id": 6401,
+    "service_id": 54530488,
+    "trip_id": 19578354281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": false,
+    "shape_id": 90443
+  },
+  {
+    "route_id": 6401,
+    "service_id": 54530488,
+    "trip_id": 19578355281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": false,
+    "shape_id": 90443
+  },
+  {
+    "route_id": 6401,
+    "service_id": 54530488,
+    "trip_id": 19578357281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": false,
+    "shape_id": 90443
+  },
+  {
+    "route_id": 6401,
+    "service_id": 54530488,
+    "trip_id": 19578358281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": false,
+    "shape_id": 90443
+  },
+  {
+    "route_id": 6401,
+    "service_id": 54530488,
+    "trip_id": 19578359281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": false,
+    "shape_id": 90443
+  },
+  {
+    "route_id": 6401,
+    "service_id": 54530491,
+    "trip_id": 19578360010118,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": false,
+    "shape_id": 90443
+  },
+  {
+    "route_id": 6401,
+    "service_id": 54530491,
+    "trip_id": 19578363010118,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": false,
+    "shape_id": 90443
+  },
+  {
+    "route_id": 6401,
+    "service_id": 54530492,
+    "trip_id": 19578413010118,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": false,
+    "shape_id": 90443
+  },
+  {
+    "route_id": 6401,
+    "service_id": 54530490,
+    "trip_id": 19578415281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": false,
+    "shape_id": 90443
+  },
+  {
+    "route_id": 6401,
+    "service_id": 54530491,
+    "trip_id": 19578354010118,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": false,
+    "shape_id": 90443
+  },
+  {
+    "route_id": 6401,
+    "service_id": 54530491,
+    "trip_id": 19578355010118,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": false,
+    "shape_id": 90443
+  },
+  {
+    "route_id": 6401,
+    "service_id": 54530491,
+    "trip_id": 19578357010118,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": false,
+    "shape_id": 90443
+  },
+  {
+    "route_id": 6401,
+    "service_id": 54530491,
+    "trip_id": 19578358010118,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": false,
+    "shape_id": 90443
+  },
+  {
+    "route_id": 6401,
+    "service_id": 54530491,
+    "trip_id": 19578359010118,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": false,
+    "shape_id": 90443
+  },
+  {
+    "route_id": 6401,
+    "service_id": 54530488,
+    "trip_id": 19578352281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": false,
+    "shape_id": 90443
+  },
+  {
+    "route_id": 6401,
+    "service_id": 54530488,
+    "trip_id": 19578353281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": false,
+    "shape_id": 90443
+  },
+  {
+    "route_id": 6401,
+    "service_id": 54530488,
+    "trip_id": 19578356281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": false,
+    "shape_id": 90443
+  },
+  {
+    "route_id": 6401,
+    "service_id": 54530488,
+    "trip_id": 19578361281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": false,
+    "shape_id": 90443
+  },
+  {
+    "route_id": 6401,
+    "service_id": 54530489,
+    "trip_id": 19578412281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": false,
+    "shape_id": 90443
+  },
+  {
+    "route_id": 6401,
+    "service_id": 54530489,
+    "trip_id": 19578414281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": false,
+    "shape_id": 90443
+  },
+  {
+    "route_id": 6401,
+    "service_id": 54530491,
+    "trip_id": 19578356010118,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": false,
+    "shape_id": 90443
+  },
+  {
+    "route_id": 6401,
+    "service_id": 54530491,
+    "trip_id": 19578361010118,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": false,
+    "shape_id": 90443
+  },
+  {
+    "route_id": 6401,
+    "service_id": 54530491,
+    "trip_id": 19578362010118,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": false,
+    "shape_id": 90443
+  },
+  {
+    "route_id": 6401,
+    "service_id": 54530492,
+    "trip_id": 19578412010118,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": false,
+    "shape_id": 90443
+  },
+  {
+    "route_id": 6401,
+    "service_id": 54530492,
+    "trip_id": 19578414010118,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": false,
+    "shape_id": 90443
+  },
+  {
+    "route_id": 6401,
+    "service_id": 54530493,
+    "trip_id": 19578415010118,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": false,
+    "shape_id": 90443
+  },
+  {
+    "route_id": 6401,
+    "service_id": 54530488,
+    "trip_id": 19578360281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": false,
+    "shape_id": 90443
+  },
+  {
+    "route_id": 6401,
+    "service_id": 54530488,
+    "trip_id": 19578362281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": false,
+    "shape_id": 90443
+  },
+  {
+    "route_id": 6401,
+    "service_id": 54530488,
+    "trip_id": 19578363281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": false,
+    "shape_id": 90443
+  },
+  {
+    "route_id": 6401,
+    "service_id": 54530489,
+    "trip_id": 19578413281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": false,
+    "shape_id": 90443
+  },
+  {
+    "route_id": 6401,
+    "service_id": 54530491,
+    "trip_id": 19578352010118,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": false,
+    "shape_id": 90443
+  },
+  {
+    "route_id": 6401,
+    "service_id": 54530491,
+    "trip_id": 19578353010118,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": false,
+    "shape_id": 90443
+  },
+  {
+    "route_id": 11183,
+    "service_id": 54537004,
+    "trip_id": 22061606281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86647
+  },
+  {
+    "route_id": 11183,
+    "service_id": 54537004,
+    "trip_id": 22061607281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86647
+  },
+  {
+    "route_id": 11183,
+    "service_id": 54537005,
+    "trip_id": 22061631281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86647
+  },
+  {
+    "route_id": 11183,
+    "service_id": 54537004,
+    "trip_id": 22061605281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86647
+  },
+  {
+    "route_id": 11183,
+    "service_id": 54537004,
+    "trip_id": 22061608281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86647
+  },
+  {
+    "route_id": 11183,
+    "service_id": 54537004,
+    "trip_id": 22061609281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86647
+  },
+  {
+    "route_id": 11183,
+    "service_id": 54537005,
+    "trip_id": 22061630281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86647
+  },
+  {
+    "route_id": 6401,
+    "service_id": 54530497,
+    "trip_id": 22138030311217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": false,
+    "shape_id": 90443
+  },
+  {
+    "route_id": 6401,
+    "service_id": 54530497,
+    "trip_id": 22138031311217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": false,
+    "shape_id": 90443
+  },
+  {
+    "route_id": 6401,
+    "service_id": 54530497,
+    "trip_id": 22138033311217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": false,
+    "shape_id": 90443
+  },
+  {
+    "route_id": 6401,
+    "service_id": 54530497,
+    "trip_id": 22138035311217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": false,
+    "shape_id": 90443
+  },
+  {
+    "route_id": 6401,
+    "service_id": 54530497,
+    "trip_id": 22138029311217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": false,
+    "shape_id": 90443
+  },
+  {
+    "route_id": 6401,
+    "service_id": 54530497,
+    "trip_id": 22138032311217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": false,
+    "shape_id": 90443
+  },
+  {
+    "route_id": 6401,
+    "service_id": 54530497,
+    "trip_id": 22138034311217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": false,
+    "shape_id": 90443
+  },
+  {
+    "route_id": 6401,
+    "service_id": 54530497,
+    "trip_id": 22138036311217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": false,
+    "shape_id": 90443
+  },
+  {
+    "route_id": 6401,
+    "service_id": 54530497,
+    "trip_id": 22138037311217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": false,
+    "shape_id": 90443
+  },
+  {
+    "route_id": 6401,
+    "service_id": 54530497,
+    "trip_id": 22138038311217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": false,
+    "shape_id": 90443
+  },
+  {
+    "route_id": 6401,
+    "service_id": 54530497,
+    "trip_id": 22138039311217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": false,
+    "shape_id": 90443
+  },
+  {
+    "route_id": 6401,
+    "service_id": 54530497,
+    "trip_id": 22138040311217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": false,
+    "shape_id": 90443
+  },
+  {
+    "route_id": 14610,
+    "service_id": 54546828,
+    "trip_id": 22138515311217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86349
+  },
+  {
+    "route_id": 14610,
+    "service_id": 54546828,
+    "trip_id": 22138516311217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86349
+  },
+  {
+    "route_id": 14610,
+    "service_id": 54546828,
+    "trip_id": 22138517311217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86349
+  },
+  {
+    "route_id": 11195,
+    "service_id": 54537009,
+    "trip_id": 23196004281217,
+    "trip_headsign": "מודיעין מכבים רעות _ רעות",
+    "direction_id": true,
+    "shape_id": 56605
+  },
+  {
+    "route_id": 14612,
+    "service_id": 54546843,
+    "trip_id": 26600722010118,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86351
+  },
+  {
+    "route_id": 14612,
+    "service_id": 54546843,
+    "trip_id": 26600723010118,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86351
+  },
+  {
+    "route_id": 14612,
+    "service_id": 54546845,
+    "trip_id": 26600722281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86351
+  },
+  {
+    "route_id": 14612,
+    "service_id": 54546843,
+    "trip_id": 26600721010118,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86351
+  },
+  {
+    "route_id": 14612,
+    "service_id": 54546845,
+    "trip_id": 26600721281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86351
+  },
+  {
+    "route_id": 14612,
+    "service_id": 54546845,
+    "trip_id": 26600723281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86351
+  },
+  {
+    "route_id": 19775,
+    "service_id": 54547454,
+    "trip_id": 27620911291217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": false,
+    "shape_id": 86338
+  },
+  {
+    "route_id": 19775,
+    "service_id": 54547455,
+    "trip_id": 27620912291217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": false,
+    "shape_id": 86338
+  },
+  {
+    "route_id": 19775,
+    "service_id": 54547454,
+    "trip_id": 27620910291217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": false,
+    "shape_id": 86338
+  },
+  {
+    "route_id": 11210,
+    "service_id": 54537838,
+    "trip_id": 28351270281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86633
+  },
+  {
+    "route_id": 11210,
+    "service_id": 54537838,
+    "trip_id": 28351275281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86633
+  },
+  {
+    "route_id": 11344,
+    "service_id": 54544071,
+    "trip_id": 28394346281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 87215
+  },
+  {
+    "route_id": 11344,
+    "service_id": 54544071,
+    "trip_id": 28394347281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 87215
+  },
+  {
+    "route_id": 11344,
+    "service_id": 54544071,
+    "trip_id": 28394349281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 87215
+  },
+  {
+    "route_id": 11344,
+    "service_id": 54544071,
+    "trip_id": 28394351281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 87215
+  },
+  {
+    "route_id": 11344,
+    "service_id": 54544071,
+    "trip_id": 28394354281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 87215
+  },
+  {
+    "route_id": 11344,
+    "service_id": 54544071,
+    "trip_id": 28394348281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 87215
+  },
+  {
+    "route_id": 11344,
+    "service_id": 54544071,
+    "trip_id": 28394350281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 87215
+  },
+  {
+    "route_id": 11344,
+    "service_id": 54544071,
+    "trip_id": 28394352281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 87215
+  },
+  {
+    "route_id": 11344,
+    "service_id": 54544071,
+    "trip_id": 28394353281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 87215
+  },
+  {
+    "route_id": 20756,
+    "service_id": 54544069,
+    "trip_id": 28394407281217,
+    "trip_headsign": "מודיעין מכבים רעות _ הנחלים",
+    "direction_id": true,
+    "shape_id": 87214
+  },
+  {
+    "route_id": 20756,
+    "service_id": 54544069,
+    "trip_id": 28394402281217,
+    "trip_headsign": "מודיעין מכבים רעות _ הנחלים",
+    "direction_id": true,
+    "shape_id": 87214
+  },
+  {
+    "route_id": 11346,
+    "service_id": 54544081,
+    "trip_id": 28395465281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86683
+  },
+  {
+    "route_id": 11346,
+    "service_id": 54544081,
+    "trip_id": 28395466281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86683
+  },
+  {
+    "route_id": 11346,
+    "service_id": 54544081,
+    "trip_id": 28395467281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86683
+  },
+  {
+    "route_id": 11346,
+    "service_id": 54544082,
+    "trip_id": 28395480281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86683
+  },
+  {
+    "route_id": 11346,
+    "service_id": 54544082,
+    "trip_id": 28395481281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86683
+  },
+  {
+    "route_id": 11372,
+    "service_id": 54544168,
+    "trip_id": 28395523281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86686
+  },
+  {
+    "route_id": 11372,
+    "service_id": 54544169,
+    "trip_id": 28395544281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86686
+  },
+  {
+    "route_id": 11372,
+    "service_id": 54544169,
+    "trip_id": 28395545281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86686
+  },
+  {
+    "route_id": 11372,
+    "service_id": 54544168,
+    "trip_id": 28395520281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86686
+  },
+  {
+    "route_id": 11372,
+    "service_id": 54544168,
+    "trip_id": 28395519281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86686
+  },
+  {
+    "route_id": 11372,
+    "service_id": 54544168,
+    "trip_id": 28395521281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86686
+  },
+  {
+    "route_id": 11372,
+    "service_id": 54544168,
+    "trip_id": 28395522281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86686
+  },
+  {
+    "route_id": 16325,
+    "service_id": 54544165,
+    "trip_id": 28395547281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86687
+  },
+  {
+    "route_id": 16325,
+    "service_id": 54544165,
+    "trip_id": 28395546281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86687
+  },
+  {
+    "route_id": 20677,
+    "service_id": 54536993,
+    "trip_id": 28461996281217,
+    "trip_headsign": "מודיעין מכבים רעות _ הנחלים",
+    "direction_id": true,
+    "shape_id": 84067
+  },
+  {
+    "route_id": 20677,
+    "service_id": 54536993,
+    "trip_id": 28461991281217,
+    "trip_headsign": "מודיעין מכבים רעות _ הנחלים",
+    "direction_id": true,
+    "shape_id": 84067
+  },
+  {
+    "route_id": 20677,
+    "service_id": 54537002,
+    "trip_id": 28461991311217,
+    "trip_headsign": "מודיעין מכבים רעות _ הנחלים",
+    "direction_id": true,
+    "shape_id": 90454
+  },
+  {
+    "route_id": 20677,
+    "service_id": 54537002,
+    "trip_id": 28461996311217,
+    "trip_headsign": "מודיעין מכבים רעות _ הנחלים",
+    "direction_id": true,
+    "shape_id": 90454
+  },
+  {
+    "route_id": 17925,
+    "service_id": 54552005,
+    "trip_id": 28562525281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": false,
+    "shape_id": 86628
+  },
+  {
+    "route_id": 17925,
+    "service_id": 54552005,
+    "trip_id": 28562526281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": false,
+    "shape_id": 86628
+  },
+  {
+    "route_id": 17925,
+    "service_id": 54552006,
+    "trip_id": 28562517281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": false,
+    "shape_id": 86628
+  },
+  {
+    "route_id": 17925,
+    "service_id": 54552006,
+    "trip_id": 28562518281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": false,
+    "shape_id": 86628
+  },
+  {
+    "route_id": 17925,
+    "service_id": 54552006,
+    "trip_id": 28562519281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": false,
+    "shape_id": 86628
+  },
+  {
+    "route_id": 17925,
+    "service_id": 54552006,
+    "trip_id": 28562520281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": false,
+    "shape_id": 86628
+  },
+  {
+    "route_id": 17925,
+    "service_id": 54552005,
+    "trip_id": 28562522281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": false,
+    "shape_id": 86628
+  },
+  {
+    "route_id": 17925,
+    "service_id": 54552005,
+    "trip_id": 28562524281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": false,
+    "shape_id": 86628
+  },
+  {
+    "route_id": 17925,
+    "service_id": 54552005,
+    "trip_id": 28562521281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": false,
+    "shape_id": 86628
+  },
+  {
+    "route_id": 17925,
+    "service_id": 54552005,
+    "trip_id": 28562523281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": false,
+    "shape_id": 86628
+  },
+  {
+    "route_id": 14996,
+    "service_id": 54548345,
+    "trip_id": 28570780281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": false,
+    "shape_id": 89499
+  },
+  {
+    "route_id": 14996,
+    "service_id": 54548346,
+    "trip_id": 28570794281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": false,
+    "shape_id": 89499
+  },
+  {
+    "route_id": 14996,
+    "service_id": 54548347,
+    "trip_id": 28570796281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": false,
+    "shape_id": 89499
+  },
+  {
+    "route_id": 14996,
+    "service_id": 54548345,
+    "trip_id": 28570779281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": false,
+    "shape_id": 89499
+  },
+  {
+    "route_id": 14996,
+    "service_id": 54548345,
+    "trip_id": 28570781281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": false,
+    "shape_id": 89499
+  },
+  {
+    "route_id": 14996,
+    "service_id": 54548346,
+    "trip_id": 28570795281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": false,
+    "shape_id": 89499
+  },
+  {
+    "route_id": 15000,
+    "service_id": 54548348,
+    "trip_id": 28570797281217,
+    "trip_headsign": "מודיעין מכבים רעות _ רכבת פאתי מודיעין",
+    "direction_id": false,
+    "shape_id": 89500
+  },
+  {
+    "route_id": 15000,
+    "service_id": 54548348,
+    "trip_id": 28570798281217,
+    "trip_headsign": "מודיעין מכבים רעות _ רכבת פאתי מודיעין",
+    "direction_id": false,
+    "shape_id": 89500
+  },
+  {
+    "route_id": 9024,
+    "service_id": 54536981,
+    "trip_id": 29128923281217,
+    "trip_headsign": "מודיעין מכבים רעות _ הנחלים",
+    "direction_id": true,
+    "shape_id": 86677
+  },
+  {
+    "route_id": 9024,
+    "service_id": 54536981,
+    "trip_id": 29128928281217,
+    "trip_headsign": "מודיעין מכבים רעות _ הנחלים",
+    "direction_id": true,
+    "shape_id": 86677
+  },
+  {
+    "route_id": 9024,
+    "service_id": 54536981,
+    "trip_id": 29128943281217,
+    "trip_headsign": "מודיעין מכבים רעות _ הנחלים",
+    "direction_id": true,
+    "shape_id": 86677
+  },
+  {
+    "route_id": 9024,
+    "service_id": 54536981,
+    "trip_id": 29128933281217,
+    "trip_headsign": "מודיעין מכבים רעות _ הנחלים",
+    "direction_id": true,
+    "shape_id": 86677
+  },
+  {
+    "route_id": 9024,
+    "service_id": 54536981,
+    "trip_id": 29128938281217,
+    "trip_headsign": "מודיעין מכבים רעות _ הנחלים",
+    "direction_id": true,
+    "shape_id": 86677
+  },
+  {
+    "route_id": 21168,
+    "service_id": 54536957,
+    "trip_id": 29130057281217,
+    "trip_headsign": "מודיעין מכבים רעות _ הנחלים",
+    "direction_id": true,
+    "shape_id": 88115
+  },
+  {
+    "route_id": 14664,
+    "service_id": 54548259,
+    "trip_id": 29587472281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86353
+  },
+  {
+    "route_id": 14664,
+    "service_id": 54548259,
+    "trip_id": 29587474281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86353
+  },
+  {
+    "route_id": 14664,
+    "service_id": 54548260,
+    "trip_id": 29587514281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86353
+  },
+  {
+    "route_id": 14664,
+    "service_id": 54548260,
+    "trip_id": 29587515281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86353
+  },
+  {
+    "route_id": 14664,
+    "service_id": 54548261,
+    "trip_id": 29587516281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86353
+  },
+  {
+    "route_id": 14664,
+    "service_id": 54548259,
+    "trip_id": 29587469281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86353
+  },
+  {
+    "route_id": 14664,
+    "service_id": 54548261,
+    "trip_id": 29587517281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86353
+  },
+  {
+    "route_id": 14664,
+    "service_id": 54548261,
+    "trip_id": 29587518281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86353
+  },
+  {
+    "route_id": 14664,
+    "service_id": 54548259,
+    "trip_id": 29587470281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86353
+  },
+  {
+    "route_id": 14664,
+    "service_id": 54548259,
+    "trip_id": 29587471281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86353
+  },
+  {
+    "route_id": 14664,
+    "service_id": 54548259,
+    "trip_id": 29587473281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86353
+  },
+  {
+    "route_id": 14664,
+    "service_id": 54548259,
+    "trip_id": 29587475281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86353
+  },
+  {
+    "route_id": 14664,
+    "service_id": 54548259,
+    "trip_id": 29587476281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86353
+  },
+  {
+    "route_id": 14664,
+    "service_id": 54548259,
+    "trip_id": 29587477281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86353
+  },
+  {
+    "route_id": 20348,
+    "service_id": 54548252,
+    "trip_id": 29587519281217,
+    "trip_headsign": "מודיעין מכבים רעות _ רכבת מרכז קניון מודיעין",
+    "direction_id": true,
+    "shape_id": 88764
+  },
+  {
+    "route_id": 20348,
+    "service_id": 54548253,
+    "trip_id": 30209396010118,
+    "trip_headsign": "מודיעין מכבים רעות _ רכבת מרכז קניון מודיעין",
+    "direction_id": true,
+    "shape_id": 88764
+  },
+  {
+    "route_id": 20348,
+    "service_id": 54548254,
+    "trip_id": 29587520020118,
+    "trip_headsign": "מודיעין מכבים רעות _ רכבת מרכז קניון מודיעין",
+    "direction_id": true,
+    "shape_id": 88764
+  },
+  {
+    "route_id": 20348,
+    "service_id": 54548255,
+    "trip_id": 29587519020118,
+    "trip_headsign": "מודיעין מכבים רעות _ רכבת מרכז קניון מודיעין",
+    "direction_id": true,
+    "shape_id": 88764
+  },
+  {
+    "route_id": 15251,
+    "service_id": 54548777,
+    "trip_id": 29777414281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86680
+  },
+  {
+    "route_id": 15251,
+    "service_id": 54548777,
+    "trip_id": 29777419281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86680
+  },
+  {
+    "route_id": 15251,
+    "service_id": 54548777,
+    "trip_id": 29777424281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86680
+  },
+  {
+    "route_id": 15251,
+    "service_id": 54548777,
+    "trip_id": 29777429281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86680
+  },
+  {
+    "route_id": 15251,
+    "service_id": 54548777,
+    "trip_id": 29777434281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86680
+  },
+  {
+    "route_id": 15251,
+    "service_id": 54548778,
+    "trip_id": 29777413281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86680
+  },
+  {
+    "route_id": 11179,
+    "service_id": 54536987,
+    "trip_id": 29868772281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86673
+  },
+  {
+    "route_id": 11179,
+    "service_id": 54536987,
+    "trip_id": 29868774281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86673
+  },
+  {
+    "route_id": 11179,
+    "service_id": 54536987,
+    "trip_id": 29868775281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86673
+  },
+  {
+    "route_id": 11179,
+    "service_id": 54536987,
+    "trip_id": 29868776281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86673
+  },
+  {
+    "route_id": 11179,
+    "service_id": 54536987,
+    "trip_id": 29868779281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86673
+  },
+  {
+    "route_id": 11179,
+    "service_id": 54536987,
+    "trip_id": 29868780281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86673
+  },
+  {
+    "route_id": 11179,
+    "service_id": 54536988,
+    "trip_id": 29869008281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86673
+  },
+  {
+    "route_id": 11179,
+    "service_id": 54536988,
+    "trip_id": 29869009281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86673
+  },
+  {
+    "route_id": 11179,
+    "service_id": 54536988,
+    "trip_id": 29869011281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86673
+  },
+  {
+    "route_id": 11179,
+    "service_id": 54536989,
+    "trip_id": 29869014281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86673
+  },
+  {
+    "route_id": 11179,
+    "service_id": 54536989,
+    "trip_id": 29869018281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86673
+  },
+  {
+    "route_id": 11179,
+    "service_id": 54536989,
+    "trip_id": 29869019281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86673
+  },
+  {
+    "route_id": 11179,
+    "service_id": 54536988,
+    "trip_id": 29868999281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86673
+  },
+  {
+    "route_id": 11179,
+    "service_id": 54536988,
+    "trip_id": 29869002281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86673
+  },
+  {
+    "route_id": 11179,
+    "service_id": 54536988,
+    "trip_id": 29869003281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86673
+  },
+  {
+    "route_id": 11179,
+    "service_id": 54536988,
+    "trip_id": 29869004281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86673
+  },
+  {
+    "route_id": 11179,
+    "service_id": 54536988,
+    "trip_id": 29869006281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86673
+  },
+  {
+    "route_id": 11179,
+    "service_id": 54536988,
+    "trip_id": 29869007281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86673
+  },
+  {
+    "route_id": 11179,
+    "service_id": 54536987,
+    "trip_id": 29868805281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86673
+  },
+  {
+    "route_id": 11179,
+    "service_id": 54536987,
+    "trip_id": 29868806281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86673
+  },
+  {
+    "route_id": 11179,
+    "service_id": 54536987,
+    "trip_id": 29868810281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86673
+  },
+  {
+    "route_id": 11179,
+    "service_id": 54536987,
+    "trip_id": 29868811281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86673
+  },
+  {
+    "route_id": 11179,
+    "service_id": 54536988,
+    "trip_id": 29868989281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86673
+  },
+  {
+    "route_id": 11179,
+    "service_id": 54536988,
+    "trip_id": 29868994281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86673
+  },
+  {
+    "route_id": 11179,
+    "service_id": 54536987,
+    "trip_id": 29868795281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86673
+  },
+  {
+    "route_id": 11179,
+    "service_id": 54536987,
+    "trip_id": 29868796281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86673
+  },
+  {
+    "route_id": 11179,
+    "service_id": 54536987,
+    "trip_id": 29868797281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86673
+  },
+  {
+    "route_id": 11179,
+    "service_id": 54536987,
+    "trip_id": 29868798281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86673
+  },
+  {
+    "route_id": 11179,
+    "service_id": 54536987,
+    "trip_id": 29868801281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86673
+  },
+  {
+    "route_id": 11179,
+    "service_id": 54536987,
+    "trip_id": 29868804281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86673
+  },
+  {
+    "route_id": 11179,
+    "service_id": 54536987,
+    "trip_id": 29868783281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86673
+  },
+  {
+    "route_id": 11179,
+    "service_id": 54536987,
+    "trip_id": 29868787281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86673
+  },
+  {
+    "route_id": 11179,
+    "service_id": 54536987,
+    "trip_id": 29868789281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86673
+  },
+  {
+    "route_id": 11179,
+    "service_id": 54536987,
+    "trip_id": 29868790281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86673
+  },
+  {
+    "route_id": 11179,
+    "service_id": 54536987,
+    "trip_id": 29868791281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86673
+  },
+  {
+    "route_id": 11179,
+    "service_id": 54536987,
+    "trip_id": 29868793281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86673
+  },
+  {
+    "route_id": 11179,
+    "service_id": 54536989,
+    "trip_id": 29869017281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86673
+  },
+  {
+    "route_id": 11179,
+    "service_id": 54536989,
+    "trip_id": 29869020281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86673
+  },
+  {
+    "route_id": 11179,
+    "service_id": 54536989,
+    "trip_id": 29869021281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86673
+  },
+  {
+    "route_id": 11179,
+    "service_id": 54536987,
+    "trip_id": 29868773281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86673
+  },
+  {
+    "route_id": 11179,
+    "service_id": 54536987,
+    "trip_id": 29868777281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86673
+  },
+  {
+    "route_id": 11179,
+    "service_id": 54536987,
+    "trip_id": 29868778281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86673
+  },
+  {
+    "route_id": 11179,
+    "service_id": 54536988,
+    "trip_id": 29869005281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86673
+  },
+  {
+    "route_id": 11179,
+    "service_id": 54536988,
+    "trip_id": 29869010281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86673
+  },
+  {
+    "route_id": 11179,
+    "service_id": 54536989,
+    "trip_id": 29869012281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86673
+  },
+  {
+    "route_id": 11179,
+    "service_id": 54536989,
+    "trip_id": 29869013281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86673
+  },
+  {
+    "route_id": 11179,
+    "service_id": 54536989,
+    "trip_id": 29869015281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86673
+  },
+  {
+    "route_id": 11179,
+    "service_id": 54536989,
+    "trip_id": 29869016281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86673
+  },
+  {
+    "route_id": 11179,
+    "service_id": 54536988,
+    "trip_id": 29868995281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86673
+  },
+  {
+    "route_id": 11179,
+    "service_id": 54536988,
+    "trip_id": 29868996281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86673
+  },
+  {
+    "route_id": 11179,
+    "service_id": 54536988,
+    "trip_id": 29868997281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86673
+  },
+  {
+    "route_id": 11179,
+    "service_id": 54536988,
+    "trip_id": 29868998281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86673
+  },
+  {
+    "route_id": 11179,
+    "service_id": 54536988,
+    "trip_id": 29869000281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86673
+  },
+  {
+    "route_id": 11179,
+    "service_id": 54536988,
+    "trip_id": 29869001281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86673
+  },
+  {
+    "route_id": 11179,
+    "service_id": 54536988,
+    "trip_id": 29868987281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86673
+  },
+  {
+    "route_id": 11179,
+    "service_id": 54536988,
+    "trip_id": 29868988281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86673
+  },
+  {
+    "route_id": 11179,
+    "service_id": 54536988,
+    "trip_id": 29868990281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86673
+  },
+  {
+    "route_id": 11179,
+    "service_id": 54536988,
+    "trip_id": 29868991281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86673
+  },
+  {
+    "route_id": 11179,
+    "service_id": 54536988,
+    "trip_id": 29868992281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86673
+  },
+  {
+    "route_id": 11179,
+    "service_id": 54536988,
+    "trip_id": 29868993281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86673
+  },
+  {
+    "route_id": 11179,
+    "service_id": 54536987,
+    "trip_id": 29868807281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86673
+  },
+  {
+    "route_id": 11179,
+    "service_id": 54536987,
+    "trip_id": 29868808281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86673
+  },
+  {
+    "route_id": 11179,
+    "service_id": 54536987,
+    "trip_id": 29868809281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86673
+  },
+  {
+    "route_id": 11179,
+    "service_id": 54536987,
+    "trip_id": 29868812281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86673
+  },
+  {
+    "route_id": 11179,
+    "service_id": 54536987,
+    "trip_id": 29868813281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86673
+  },
+  {
+    "route_id": 11179,
+    "service_id": 54536987,
+    "trip_id": 29868814281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86673
+  },
+  {
+    "route_id": 11179,
+    "service_id": 54536987,
+    "trip_id": 29868792281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86673
+  },
+  {
+    "route_id": 11179,
+    "service_id": 54536987,
+    "trip_id": 29868794281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86673
+  },
+  {
+    "route_id": 11179,
+    "service_id": 54536987,
+    "trip_id": 29868799281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86673
+  },
+  {
+    "route_id": 11179,
+    "service_id": 54536987,
+    "trip_id": 29868800281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86673
+  },
+  {
+    "route_id": 11179,
+    "service_id": 54536987,
+    "trip_id": 29868802281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86673
+  },
+  {
+    "route_id": 11179,
+    "service_id": 54536987,
+    "trip_id": 29868803281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86673
+  },
+  {
+    "route_id": 11179,
+    "service_id": 54536987,
+    "trip_id": 29868781281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86673
+  },
+  {
+    "route_id": 11179,
+    "service_id": 54536987,
+    "trip_id": 29868782281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86673
+  },
+  {
+    "route_id": 11179,
+    "service_id": 54536987,
+    "trip_id": 29868784281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86673
+  },
+  {
+    "route_id": 11179,
+    "service_id": 54536987,
+    "trip_id": 29868785281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86673
+  },
+  {
+    "route_id": 11179,
+    "service_id": 54536987,
+    "trip_id": 29868786281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86673
+  },
+  {
+    "route_id": 11179,
+    "service_id": 54536987,
+    "trip_id": 29868788281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86673
+  },
+  {
+    "route_id": 19775,
+    "service_id": 54547453,
+    "trip_id": 30056205281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": false,
+    "shape_id": 86338
+  },
+  {
+    "route_id": 19775,
+    "service_id": 54547453,
+    "trip_id": 30056203281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": false,
+    "shape_id": 86338
+  },
+  {
+    "route_id": 19775,
+    "service_id": 54547453,
+    "trip_id": 30056204281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": false,
+    "shape_id": 86338
+  },
+  {
+    "route_id": 19775,
+    "service_id": 54547453,
+    "trip_id": 30056201281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": false,
+    "shape_id": 86338
+  },
+  {
+    "route_id": 19775,
+    "service_id": 54547453,
+    "trip_id": 30056202281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": false,
+    "shape_id": 86338
+  },
+  {
+    "route_id": 13752,
+    "service_id": 54547478,
+    "trip_id": 30056206281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": false,
+    "shape_id": 86339
+  },
+  {
+    "route_id": 19775,
+    "service_id": 54547477,
+    "trip_id": 30108574311217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": false,
+    "shape_id": 86338
+  },
+  {
+    "route_id": 19775,
+    "service_id": 54547477,
+    "trip_id": 30108576311217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": false,
+    "shape_id": 86338
+  },
+  {
+    "route_id": 19775,
+    "service_id": 54547477,
+    "trip_id": 30108572311217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": false,
+    "shape_id": 86338
+  },
+  {
+    "route_id": 19775,
+    "service_id": 54547477,
+    "trip_id": 30108573311217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": false,
+    "shape_id": 86338
+  },
+  {
+    "route_id": 19775,
+    "service_id": 54547477,
+    "trip_id": 30108575311217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": false,
+    "shape_id": 86338
+  },
+  {
+    "route_id": 11908,
+    "service_id": 54536159,
+    "trip_id": 30205672281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": false,
+    "shape_id": 89843
+  },
+  {
+    "route_id": 11908,
+    "service_id": 54536159,
+    "trip_id": 30205677281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": false,
+    "shape_id": 89843
+  },
+  {
+    "route_id": 11908,
+    "service_id": 54536159,
+    "trip_id": 30205682281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": false,
+    "shape_id": 89843
+  },
+  {
+    "route_id": 11908,
+    "service_id": 54536159,
+    "trip_id": 30205687281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": false,
+    "shape_id": 89843
+  },
+  {
+    "route_id": 11908,
+    "service_id": 54536160,
+    "trip_id": 30205651281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": false,
+    "shape_id": 89843
+  },
+  {
+    "route_id": 11908,
+    "service_id": 54536159,
+    "trip_id": 30205652281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": false,
+    "shape_id": 89843
+  },
+  {
+    "route_id": 11908,
+    "service_id": 54536159,
+    "trip_id": 30205667281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": false,
+    "shape_id": 89843
+  },
+  {
+    "route_id": 11908,
+    "service_id": 54536159,
+    "trip_id": 30205657281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": false,
+    "shape_id": 89843
+  },
+  {
+    "route_id": 11908,
+    "service_id": 54536159,
+    "trip_id": 30205662281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": false,
+    "shape_id": 89843
+  },
+  {
+    "route_id": 14612,
+    "service_id": 54546842,
+    "trip_id": 30209317311217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86351
+  },
+  {
+    "route_id": 14612,
+    "service_id": 54546842,
+    "trip_id": 30209315311217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86351
+  },
+  {
+    "route_id": 14612,
+    "service_id": 54546842,
+    "trip_id": 30209316311217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86351
+  },
+  {
+    "route_id": 14664,
+    "service_id": 54548262,
+    "trip_id": 30209388311217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86353
+  },
+  {
+    "route_id": 14664,
+    "service_id": 54548262,
+    "trip_id": 30209390311217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86353
+  },
+  {
+    "route_id": 14664,
+    "service_id": 54548262,
+    "trip_id": 30209391311217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86353
+  },
+  {
+    "route_id": 14664,
+    "service_id": 54548262,
+    "trip_id": 30209392311217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86353
+  },
+  {
+    "route_id": 14664,
+    "service_id": 54548262,
+    "trip_id": 30209387311217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86353
+  },
+  {
+    "route_id": 14664,
+    "service_id": 54548262,
+    "trip_id": 30209389311217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86353
+  },
+  {
+    "route_id": 14664,
+    "service_id": 54548262,
+    "trip_id": 30209393311217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86353
+  },
+  {
+    "route_id": 14664,
+    "service_id": 54548262,
+    "trip_id": 30209394311217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86353
+  },
+  {
+    "route_id": 14664,
+    "service_id": 54548262,
+    "trip_id": 30209395311217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86353
+  },
+  {
+    "route_id": 8360,
+    "service_id": 54536161,
+    "trip_id": 30283120281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": false,
+    "shape_id": 89868
+  },
+  {
+    "route_id": 19775,
+    "service_id": 54547461,
+    "trip_id": 30293182010118,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": false,
+    "shape_id": 86338
+  },
+  {
+    "route_id": 19775,
+    "service_id": 54547487,
+    "trip_id": 30293207010218,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": false,
+    "shape_id": 86338
+  },
+  {
+    "route_id": 19775,
+    "service_id": 54547487,
+    "trip_id": 30293208010218,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": false,
+    "shape_id": 86338
+  },
+  {
+    "route_id": 19775,
+    "service_id": 54547488,
+    "trip_id": 30293209010218,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": false,
+    "shape_id": 86338
+  },
+  {
+    "route_id": 19775,
+    "service_id": 54547486,
+    "trip_id": 30293186010218,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": false,
+    "shape_id": 86338
+  },
+  {
+    "route_id": 19775,
+    "service_id": 54547461,
+    "trip_id": 30293183010118,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": false,
+    "shape_id": 86338
+  },
+  {
+    "route_id": 19775,
+    "service_id": 54547461,
+    "trip_id": 30293186010118,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": false,
+    "shape_id": 86338
+  },
+  {
+    "route_id": 19775,
+    "service_id": 54547463,
+    "trip_id": 30293209010118,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": false,
+    "shape_id": 86338
+  },
+  {
+    "route_id": 19775,
+    "service_id": 54547486,
+    "trip_id": 30293182010218,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": false,
+    "shape_id": 86338
+  },
+  {
+    "route_id": 19775,
+    "service_id": 54547486,
+    "trip_id": 30293183010218,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": false,
+    "shape_id": 86338
+  },
+  {
+    "route_id": 19775,
+    "service_id": 54547461,
+    "trip_id": 30293184010118,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": false,
+    "shape_id": 86338
+  },
+  {
+    "route_id": 19775,
+    "service_id": 54547461,
+    "trip_id": 30293185010118,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": false,
+    "shape_id": 86338
+  },
+  {
+    "route_id": 19775,
+    "service_id": 54547462,
+    "trip_id": 30293207010118,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": false,
+    "shape_id": 86338
+  },
+  {
+    "route_id": 19775,
+    "service_id": 54547462,
+    "trip_id": 30293208010118,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": false,
+    "shape_id": 86338
+  },
+  {
+    "route_id": 19775,
+    "service_id": 54547486,
+    "trip_id": 30293184010218,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": false,
+    "shape_id": 86338
+  },
+  {
+    "route_id": 19775,
+    "service_id": 54547486,
+    "trip_id": 30293185010218,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": false,
+    "shape_id": 86338
+  },
+  {
+    "route_id": 13752,
+    "service_id": 54547464,
+    "trip_id": 30318954010118,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": false,
+    "shape_id": 86339
+  },
+  {
+    "route_id": 13752,
+    "service_id": 54547466,
+    "trip_id": 30318954010218,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": false,
+    "shape_id": 86339
+  },
+  {
+    "route_id": 14664,
+    "service_id": 54548265,
+    "trip_id": 30368291010118,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86353
+  },
+  {
+    "route_id": 14664,
+    "service_id": 54548265,
+    "trip_id": 30368292010118,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86353
+  },
+  {
+    "route_id": 14664,
+    "service_id": 54548265,
+    "trip_id": 30368293010118,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86353
+  },
+  {
+    "route_id": 14664,
+    "service_id": 54548265,
+    "trip_id": 30368294010118,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86353
+  },
+  {
+    "route_id": 14664,
+    "service_id": 54548265,
+    "trip_id": 30368295010118,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86353
+  },
+  {
+    "route_id": 14664,
+    "service_id": 54548265,
+    "trip_id": 30368296010118,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86353
+  },
+  {
+    "route_id": 14664,
+    "service_id": 54548265,
+    "trip_id": 30368290010118,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86353
+  },
+  {
+    "route_id": 14664,
+    "service_id": 54548267,
+    "trip_id": 30368336010118,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86353
+  },
+  {
+    "route_id": 14664,
+    "service_id": 54548266,
+    "trip_id": 30368333010118,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86353
+  },
+  {
+    "route_id": 14664,
+    "service_id": 54548266,
+    "trip_id": 30368334010118,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86353
+  },
+  {
+    "route_id": 14664,
+    "service_id": 54548267,
+    "trip_id": 30368335010118,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86353
+  },
+  {
+    "route_id": 14664,
+    "service_id": 54548267,
+    "trip_id": 30368337010118,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86353
+  },
+  {
+    "route_id": 14664,
+    "service_id": 54548265,
+    "trip_id": 30368288010118,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86353
+  },
+  {
+    "route_id": 14664,
+    "service_id": 54548265,
+    "trip_id": 30368289010118,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86353
+  },
+  {
+    "route_id": 11181,
+    "service_id": 54536997,
+    "trip_id": 30396086281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 87219
+  },
+  {
+    "route_id": 11181,
+    "service_id": 54536997,
+    "trip_id": 30396087281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 87219
+  },
+  {
+    "route_id": 11181,
+    "service_id": 54536997,
+    "trip_id": 30396089281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 87219
+  },
+  {
+    "route_id": 11181,
+    "service_id": 54536997,
+    "trip_id": 30396090281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 87219
+  },
+  {
+    "route_id": 11181,
+    "service_id": 54536997,
+    "trip_id": 30396091281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 87219
+  },
+  {
+    "route_id": 11181,
+    "service_id": 54536997,
+    "trip_id": 30396092281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 87219
+  },
+  {
+    "route_id": 11181,
+    "service_id": 54536998,
+    "trip_id": 30396307281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 87219
+  },
+  {
+    "route_id": 11181,
+    "service_id": 54536998,
+    "trip_id": 30396308281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 87219
+  },
+  {
+    "route_id": 11181,
+    "service_id": 54536998,
+    "trip_id": 30396311281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 87219
+  },
+  {
+    "route_id": 11181,
+    "service_id": 54536998,
+    "trip_id": 30396312281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 87219
+  },
+  {
+    "route_id": 11181,
+    "service_id": 54536999,
+    "trip_id": 30396316281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 87219
+  },
+  {
+    "route_id": 11181,
+    "service_id": 54536999,
+    "trip_id": 30396318281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 87219
+  },
+  {
+    "route_id": 11181,
+    "service_id": 54536998,
+    "trip_id": 30396298281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 87219
+  },
+  {
+    "route_id": 11181,
+    "service_id": 54536998,
+    "trip_id": 30396299281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 87219
+  },
+  {
+    "route_id": 11181,
+    "service_id": 54536998,
+    "trip_id": 30396300281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 87219
+  },
+  {
+    "route_id": 11181,
+    "service_id": 54536998,
+    "trip_id": 30396301281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 87219
+  },
+  {
+    "route_id": 11181,
+    "service_id": 54536998,
+    "trip_id": 30396302281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 87219
+  },
+  {
+    "route_id": 11181,
+    "service_id": 54536998,
+    "trip_id": 30396304281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 87219
+  },
+  {
+    "route_id": 11181,
+    "service_id": 54536997,
+    "trip_id": 30396110281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 87219
+  },
+  {
+    "route_id": 11181,
+    "service_id": 54536997,
+    "trip_id": 30396112281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 87219
+  },
+  {
+    "route_id": 11181,
+    "service_id": 54536997,
+    "trip_id": 30396119281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 87219
+  },
+  {
+    "route_id": 11181,
+    "service_id": 54536997,
+    "trip_id": 30396122281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 87219
+  },
+  {
+    "route_id": 11181,
+    "service_id": 54536997,
+    "trip_id": 30396123281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 87219
+  },
+  {
+    "route_id": 11181,
+    "service_id": 54536997,
+    "trip_id": 30396125281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 87219
+  },
+  {
+    "route_id": 11181,
+    "service_id": 54536998,
+    "trip_id": 30396310281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 87219
+  },
+  {
+    "route_id": 11181,
+    "service_id": 54536998,
+    "trip_id": 30396313281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 87219
+  },
+  {
+    "route_id": 11181,
+    "service_id": 54536998,
+    "trip_id": 30396314281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 87219
+  },
+  {
+    "route_id": 11181,
+    "service_id": 54536998,
+    "trip_id": 30396315281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 87219
+  },
+  {
+    "route_id": 11181,
+    "service_id": 54536999,
+    "trip_id": 30396317281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 87219
+  },
+  {
+    "route_id": 11181,
+    "service_id": 54536999,
+    "trip_id": 30396319281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 87219
+  },
+  {
+    "route_id": 11181,
+    "service_id": 54536998,
+    "trip_id": 30396296281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 87219
+  },
+  {
+    "route_id": 11181,
+    "service_id": 54536998,
+    "trip_id": 30396297281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 87219
+  },
+  {
+    "route_id": 11181,
+    "service_id": 54536998,
+    "trip_id": 30396303281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 87219
+  },
+  {
+    "route_id": 11181,
+    "service_id": 54536998,
+    "trip_id": 30396305281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 87219
+  },
+  {
+    "route_id": 11181,
+    "service_id": 54536998,
+    "trip_id": 30396306281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 87219
+  },
+  {
+    "route_id": 11181,
+    "service_id": 54536998,
+    "trip_id": 30396309281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 87219
+  },
+  {
+    "route_id": 11181,
+    "service_id": 54536997,
+    "trip_id": 30396118281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 87219
+  },
+  {
+    "route_id": 11181,
+    "service_id": 54536997,
+    "trip_id": 30396120281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 87219
+  },
+  {
+    "route_id": 11181,
+    "service_id": 54536997,
+    "trip_id": 30396121281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 87219
+  },
+  {
+    "route_id": 11181,
+    "service_id": 54536997,
+    "trip_id": 30396124281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 87219
+  },
+  {
+    "route_id": 11181,
+    "service_id": 54536997,
+    "trip_id": 30396126281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 87219
+  },
+  {
+    "route_id": 11181,
+    "service_id": 54536997,
+    "trip_id": 30396127281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 87219
+  },
+  {
+    "route_id": 11181,
+    "service_id": 54536997,
+    "trip_id": 30396111281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 87219
+  },
+  {
+    "route_id": 11181,
+    "service_id": 54536997,
+    "trip_id": 30396113281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 87219
+  },
+  {
+    "route_id": 11181,
+    "service_id": 54536997,
+    "trip_id": 30396114281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 87219
+  },
+  {
+    "route_id": 11181,
+    "service_id": 54536997,
+    "trip_id": 30396115281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 87219
+  },
+  {
+    "route_id": 11181,
+    "service_id": 54536997,
+    "trip_id": 30396116281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 87219
+  },
+  {
+    "route_id": 11181,
+    "service_id": 54536997,
+    "trip_id": 30396117281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 87219
+  },
+  {
+    "route_id": 11181,
+    "service_id": 54536997,
+    "trip_id": 30396109281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 87219
+  },
+  {
+    "route_id": 11181,
+    "service_id": 54536997,
+    "trip_id": 30396088281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 87219
+  },
+  {
+    "route_id": 11181,
+    "service_id": 54536997,
+    "trip_id": 30396099281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 87219
+  },
+  {
+    "route_id": 11181,
+    "service_id": 54536997,
+    "trip_id": 30396102281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 87219
+  },
+  {
+    "route_id": 11181,
+    "service_id": 54536997,
+    "trip_id": 30396103281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 87219
+  },
+  {
+    "route_id": 11181,
+    "service_id": 54536997,
+    "trip_id": 30396106281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 87219
+  },
+  {
+    "route_id": 11181,
+    "service_id": 54536997,
+    "trip_id": 30396100281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 87219
+  },
+  {
+    "route_id": 11181,
+    "service_id": 54536997,
+    "trip_id": 30396101281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 87219
+  },
+  {
+    "route_id": 11181,
+    "service_id": 54536997,
+    "trip_id": 30396104281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 87219
+  },
+  {
+    "route_id": 11181,
+    "service_id": 54536997,
+    "trip_id": 30396105281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 87219
+  },
+  {
+    "route_id": 11181,
+    "service_id": 54536997,
+    "trip_id": 30396107281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 87219
+  },
+  {
+    "route_id": 11181,
+    "service_id": 54536997,
+    "trip_id": 30396108281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 87219
+  },
+  {
+    "route_id": 11181,
+    "service_id": 54536997,
+    "trip_id": 30396093281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 87219
+  },
+  {
+    "route_id": 11181,
+    "service_id": 54536997,
+    "trip_id": 30396094281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 87219
+  },
+  {
+    "route_id": 11181,
+    "service_id": 54536997,
+    "trip_id": 30396095281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 87219
+  },
+  {
+    "route_id": 11181,
+    "service_id": 54536997,
+    "trip_id": 30396096281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 87219
+  },
+  {
+    "route_id": 11181,
+    "service_id": 54536997,
+    "trip_id": 30396097281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 87219
+  },
+  {
+    "route_id": 11181,
+    "service_id": 54536997,
+    "trip_id": 30396098281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 87219
+  },
+  {
+    "route_id": 21666,
+    "service_id": 54536969,
+    "trip_id": 30396326281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 90188
+  },
+  {
+    "route_id": 21666,
+    "service_id": 54536969,
+    "trip_id": 30396331281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 90188
+  },
+  {
+    "route_id": 21666,
+    "service_id": 54536969,
+    "trip_id": 30396341281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 90188
+  },
+  {
+    "route_id": 21666,
+    "service_id": 54536969,
+    "trip_id": 30396336281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 90188
+  },
+  {
+    "route_id": 21666,
+    "service_id": 54536969,
+    "trip_id": 30396346281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 90188
+  },
+  {
+    "route_id": 21666,
+    "service_id": 54536969,
+    "trip_id": 30396351281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 90188
+  },
+  {
+    "route_id": 21666,
+    "service_id": 54536969,
+    "trip_id": 30396356281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 90188
+  },
+  {
+    "route_id": 9021,
+    "service_id": 54536958,
+    "trip_id": 30396432281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86671
+  },
+  {
+    "route_id": 9021,
+    "service_id": 54536958,
+    "trip_id": 30396434281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86671
+  },
+  {
+    "route_id": 9021,
+    "service_id": 54536958,
+    "trip_id": 30396440281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86671
+  },
+  {
+    "route_id": 9021,
+    "service_id": 54536959,
+    "trip_id": 30396477281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86671
+  },
+  {
+    "route_id": 9021,
+    "service_id": 54536959,
+    "trip_id": 30396478281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86671
+  },
+  {
+    "route_id": 9021,
+    "service_id": 54536959,
+    "trip_id": 30396479281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86671
+  },
+  {
+    "route_id": 9021,
+    "service_id": 54536958,
+    "trip_id": 30396438281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86671
+  },
+  {
+    "route_id": 9021,
+    "service_id": 54536958,
+    "trip_id": 30396439281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86671
+  },
+  {
+    "route_id": 9021,
+    "service_id": 54536959,
+    "trip_id": 30396480281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86671
+  },
+  {
+    "route_id": 9021,
+    "service_id": 54536960,
+    "trip_id": 30396481281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86671
+  },
+  {
+    "route_id": 9021,
+    "service_id": 54536960,
+    "trip_id": 30396482281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86671
+  },
+  {
+    "route_id": 9021,
+    "service_id": 54536958,
+    "trip_id": 30396433281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86671
+  },
+  {
+    "route_id": 9021,
+    "service_id": 54536958,
+    "trip_id": 30396435281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86671
+  },
+  {
+    "route_id": 9021,
+    "service_id": 54536958,
+    "trip_id": 30396436281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86671
+  },
+  {
+    "route_id": 9021,
+    "service_id": 54536958,
+    "trip_id": 30396437281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86671
+  },
+  {
+    "route_id": 11177,
+    "service_id": 54536962,
+    "trip_id": 30396485281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86669
+  },
+  {
+    "route_id": 11177,
+    "service_id": 54536962,
+    "trip_id": 30396487281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86669
+  },
+  {
+    "route_id": 11177,
+    "service_id": 54536962,
+    "trip_id": 30396494281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86669
+  },
+  {
+    "route_id": 11177,
+    "service_id": 54536962,
+    "trip_id": 30396495281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86669
+  },
+  {
+    "route_id": 11177,
+    "service_id": 54536962,
+    "trip_id": 30396496281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86669
+  },
+  {
+    "route_id": 11177,
+    "service_id": 54536962,
+    "trip_id": 30396499281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86669
+  },
+  {
+    "route_id": 11177,
+    "service_id": 54536964,
+    "trip_id": 30396575281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86669
+  },
+  {
+    "route_id": 11177,
+    "service_id": 54536964,
+    "trip_id": 30396576281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86669
+  },
+  {
+    "route_id": 11177,
+    "service_id": 54536962,
+    "trip_id": 30396492281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86669
+  },
+  {
+    "route_id": 11177,
+    "service_id": 54536962,
+    "trip_id": 30396493281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86669
+  },
+  {
+    "route_id": 11177,
+    "service_id": 54536962,
+    "trip_id": 30396497281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86669
+  },
+  {
+    "route_id": 11177,
+    "service_id": 54536962,
+    "trip_id": 30396498281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86669
+  },
+  {
+    "route_id": 11177,
+    "service_id": 54536963,
+    "trip_id": 30396573281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86669
+  },
+  {
+    "route_id": 11177,
+    "service_id": 54536963,
+    "trip_id": 30396574281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86669
+  },
+  {
+    "route_id": 11177,
+    "service_id": 54536962,
+    "trip_id": 30396484281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86669
+  },
+  {
+    "route_id": 11177,
+    "service_id": 54536962,
+    "trip_id": 30396486281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86669
+  },
+  {
+    "route_id": 11177,
+    "service_id": 54536962,
+    "trip_id": 30396488281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86669
+  },
+  {
+    "route_id": 11177,
+    "service_id": 54536962,
+    "trip_id": 30396489281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86669
+  },
+  {
+    "route_id": 11177,
+    "service_id": 54536962,
+    "trip_id": 30396490281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86669
+  },
+  {
+    "route_id": 11177,
+    "service_id": 54536962,
+    "trip_id": 30396491281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86669
+  },
+  {
+    "route_id": 11177,
+    "service_id": 54536963,
+    "trip_id": 30396568281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86669
+  },
+  {
+    "route_id": 11177,
+    "service_id": 54536963,
+    "trip_id": 30396569281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86669
+  },
+  {
+    "route_id": 11177,
+    "service_id": 54536963,
+    "trip_id": 30396570281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86669
+  },
+  {
+    "route_id": 11177,
+    "service_id": 54536963,
+    "trip_id": 30396571281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86669
+  },
+  {
+    "route_id": 11177,
+    "service_id": 54536963,
+    "trip_id": 30396572281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86669
+  },
+  {
+    "route_id": 11177,
+    "service_id": 54536962,
+    "trip_id": 30396483281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86669
+  },
+  {
+    "route_id": 20113,
+    "service_id": 54552787,
+    "trip_id": 30462092281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86657
+  },
+  {
+    "route_id": 20113,
+    "service_id": 54552787,
+    "trip_id": 30462097281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86657
+  },
+  {
+    "route_id": 20113,
+    "service_id": 54552787,
+    "trip_id": 30462107281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86657
+  },
+  {
+    "route_id": 20113,
+    "service_id": 54552787,
+    "trip_id": 30462077281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86657
+  },
+  {
+    "route_id": 20113,
+    "service_id": 54552787,
+    "trip_id": 30462082281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86657
+  },
+  {
+    "route_id": 20113,
+    "service_id": 54552787,
+    "trip_id": 30462087281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86657
+  },
+  {
+    "route_id": 20113,
+    "service_id": 54552787,
+    "trip_id": 30462102281217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86657
+  },
+  {
+    "route_id": 21685,
+    "service_id": 54536995,
+    "trip_id": 30462205281217,
+    "trip_headsign": "מודיעין מכבים רעות _ הנחלים",
+    "direction_id": true,
+    "shape_id": 90454
+  },
+  {
+    "route_id": 21685,
+    "service_id": 54536996,
+    "trip_id": 30462210281217,
+    "trip_headsign": "מודיעין מכבים רעות _ הנחלים",
+    "direction_id": true,
+    "shape_id": 90454
+  },
+  {
+    "route_id": 21723,
+    "service_id": 54537014,
+    "trip_id": 30493291311217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 90490
+  },
+  {
+    "route_id": 21723,
+    "service_id": 54537014,
+    "trip_id": 30493281311217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 90490
+  },
+  {
+    "route_id": 21723,
+    "service_id": 54537014,
+    "trip_id": 30493271311217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 90490
+  },
+  {
+    "route_id": 21723,
+    "service_id": 54537014,
+    "trip_id": 30493276311217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 90490
+  },
+  {
+    "route_id": 21723,
+    "service_id": 54537014,
+    "trip_id": 30493286311217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 90490
+  },
+  {
+    "route_id": 21722,
+    "service_id": 54536980,
+    "trip_id": 30494135311217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 90491
+  },
+  {
+    "route_id": 21722,
+    "service_id": 54536980,
+    "trip_id": 30494130311217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 90491
+  },
+  {
+    "route_id": 21666,
+    "service_id": 54536970,
+    "trip_id": 30498584311217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 90492
+  },
+  {
+    "route_id": 21666,
+    "service_id": 54536970,
+    "trip_id": 30498589311217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 90492
+  },
+  {
+    "route_id": 21666,
+    "service_id": 54536970,
+    "trip_id": 30498569311217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 90492
+  },
+  {
+    "route_id": 21666,
+    "service_id": 54536970,
+    "trip_id": 30498574311217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 90492
+  },
+  {
+    "route_id": 21666,
+    "service_id": 54536970,
+    "trip_id": 30498579311217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 90492
+  },
+  {
+    "route_id": 21666,
+    "service_id": 54536970,
+    "trip_id": 30498594311217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 90492
+  },
+  {
+    "route_id": 11200,
+    "service_id": 54537013,
+    "trip_id": 30499421311217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86650
+  },
+  {
+    "route_id": 11200,
+    "service_id": 54537013,
+    "trip_id": 30499423311217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86650
+  },
+  {
+    "route_id": 11200,
+    "service_id": 54537013,
+    "trip_id": 30499425311217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86650
+  },
+  {
+    "route_id": 11200,
+    "service_id": 54537013,
+    "trip_id": 30499422311217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86650
+  },
+  {
+    "route_id": 11200,
+    "service_id": 54537013,
+    "trip_id": 30499424311217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86650
+  },
+  {
+    "route_id": 19775,
+    "service_id": 54547485,
+    "trip_id": 30515187310118,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": false,
+    "shape_id": 86338
+  },
+  {
+    "route_id": 19775,
+    "service_id": 54547485,
+    "trip_id": 30515189310118,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": false,
+    "shape_id": 86338
+  },
+  {
+    "route_id": 19775,
+    "service_id": 54547485,
+    "trip_id": 30515185310118,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": false,
+    "shape_id": 86338
+  },
+  {
+    "route_id": 19775,
+    "service_id": 54547485,
+    "trip_id": 30515186310118,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": false,
+    "shape_id": 86338
+  },
+  {
+    "route_id": 19775,
+    "service_id": 54547485,
+    "trip_id": 30515188310118,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": false,
+    "shape_id": 86338
+  },
+  {
+    "route_id": 13752,
+    "service_id": 54547465,
+    "trip_id": 30515190310118,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": false,
+    "shape_id": 86339
+  },
+  {
+    "route_id": 9024,
+    "service_id": 54536982,
+    "trip_id": 30523018311217,
+    "trip_headsign": "מודיעין מכבים רעות _ הנחלים",
+    "direction_id": true,
+    "shape_id": 90493
+  },
+  {
+    "route_id": 9024,
+    "service_id": 54536983,
+    "trip_id": 30523041311217,
+    "trip_headsign": "מודיעין מכבים רעות _ הנחלים",
+    "direction_id": true,
+    "shape_id": 90493
+  },
+  {
+    "route_id": 9024,
+    "service_id": 54536982,
+    "trip_id": 30523003311217,
+    "trip_headsign": "מודיעין מכבים רעות _ הנחלים",
+    "direction_id": true,
+    "shape_id": 90493
+  },
+  {
+    "route_id": 9024,
+    "service_id": 54536982,
+    "trip_id": 30523008311217,
+    "trip_headsign": "מודיעין מכבים רעות _ הנחלים",
+    "direction_id": true,
+    "shape_id": 90493
+  },
+  {
+    "route_id": 9024,
+    "service_id": 54536982,
+    "trip_id": 30523013311217,
+    "trip_headsign": "מודיעין מכבים רעות _ הנחלים",
+    "direction_id": true,
+    "shape_id": 90493
+  },
+  {
+    "route_id": 9024,
+    "service_id": 54536982,
+    "trip_id": 30523023311217,
+    "trip_headsign": "מודיעין מכבים רעות _ הנחלים",
+    "direction_id": true,
+    "shape_id": 90493
+  },
+  {
+    "route_id": 9024,
+    "service_id": 54536982,
+    "trip_id": 30523028311217,
+    "trip_headsign": "מודיעין מכבים רעות _ הנחלים",
+    "direction_id": true,
+    "shape_id": 90493
+  },
+  {
+    "route_id": 9024,
+    "service_id": 54536982,
+    "trip_id": 30523033311217,
+    "trip_headsign": "מודיעין מכבים רעות _ הנחלים",
+    "direction_id": true,
+    "shape_id": 90493
+  },
+  {
+    "route_id": 9024,
+    "service_id": 54536983,
+    "trip_id": 30523038311217,
+    "trip_headsign": "מודיעין מכבים רעות _ הנחלים",
+    "direction_id": true,
+    "shape_id": 90493
+  },
+  {
+    "route_id": 9024,
+    "service_id": 54536983,
+    "trip_id": 30523039311217,
+    "trip_headsign": "מודיעין מכבים רעות _ הנחלים",
+    "direction_id": true,
+    "shape_id": 90493
+  },
+  {
+    "route_id": 9024,
+    "service_id": 54536983,
+    "trip_id": 30523040311217,
+    "trip_headsign": "מודיעין מכבים רעות _ הנחלים",
+    "direction_id": true,
+    "shape_id": 90493
+  },
+  {
+    "route_id": 21168,
+    "service_id": 54536972,
+    "trip_id": 30523052311217,
+    "trip_headsign": "מודיעין מכבים רעות _ הנחלים",
+    "direction_id": true,
+    "shape_id": 90494
+  },
+  {
+    "route_id": 21168,
+    "service_id": 54536971,
+    "trip_id": 30523042311217,
+    "trip_headsign": "מודיעין מכבים רעות _ הנחלים",
+    "direction_id": true,
+    "shape_id": 90494
+  },
+  {
+    "route_id": 21168,
+    "service_id": 54536971,
+    "trip_id": 30523047311217,
+    "trip_headsign": "מודיעין מכבים רעות _ הנחלים",
+    "direction_id": true,
+    "shape_id": 90494
+  },
+  {
+    "route_id": 11179,
+    "service_id": 54536984,
+    "trip_id": 30523054311217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86673
+  },
+  {
+    "route_id": 11179,
+    "service_id": 54536984,
+    "trip_id": 30523055311217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86673
+  },
+  {
+    "route_id": 11179,
+    "service_id": 54536984,
+    "trip_id": 30523058311217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86673
+  },
+  {
+    "route_id": 11179,
+    "service_id": 54536984,
+    "trip_id": 30523059311217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86673
+  },
+  {
+    "route_id": 11179,
+    "service_id": 54536984,
+    "trip_id": 30523064311217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86673
+  },
+  {
+    "route_id": 11179,
+    "service_id": 54536984,
+    "trip_id": 30523053311217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86673
+  },
+  {
+    "route_id": 11179,
+    "service_id": 54536986,
+    "trip_id": 30523263311217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86673
+  },
+  {
+    "route_id": 11179,
+    "service_id": 54536986,
+    "trip_id": 30523264311217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86673
+  },
+  {
+    "route_id": 11179,
+    "service_id": 54536986,
+    "trip_id": 30523265311217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86673
+  },
+  {
+    "route_id": 11179,
+    "service_id": 54536986,
+    "trip_id": 30523266311217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86673
+  },
+  {
+    "route_id": 11179,
+    "service_id": 54536985,
+    "trip_id": 30523251311217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86673
+  },
+  {
+    "route_id": 11179,
+    "service_id": 54536985,
+    "trip_id": 30523252311217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86673
+  },
+  {
+    "route_id": 11179,
+    "service_id": 54536985,
+    "trip_id": 30523254311217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86673
+  },
+  {
+    "route_id": 11179,
+    "service_id": 54536985,
+    "trip_id": 30523256311217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86673
+  },
+  {
+    "route_id": 11179,
+    "service_id": 54536985,
+    "trip_id": 30523257311217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86673
+  },
+  {
+    "route_id": 11179,
+    "service_id": 54536985,
+    "trip_id": 30523261311217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86673
+  },
+  {
+    "route_id": 11179,
+    "service_id": 54536985,
+    "trip_id": 30523244311217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86673
+  },
+  {
+    "route_id": 11179,
+    "service_id": 54536985,
+    "trip_id": 30523245311217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86673
+  },
+  {
+    "route_id": 11179,
+    "service_id": 54536985,
+    "trip_id": 30523246311217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86673
+  },
+  {
+    "route_id": 11179,
+    "service_id": 54536985,
+    "trip_id": 30523247311217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86673
+  },
+  {
+    "route_id": 11179,
+    "service_id": 54536985,
+    "trip_id": 30523249311217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86673
+  },
+  {
+    "route_id": 11179,
+    "service_id": 54536985,
+    "trip_id": 30523250311217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86673
+  },
+  {
+    "route_id": 11179,
+    "service_id": 54536984,
+    "trip_id": 30523089311217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86673
+  },
+  {
+    "route_id": 11179,
+    "service_id": 54536984,
+    "trip_id": 30523274311217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86673
+  },
+  {
+    "route_id": 11179,
+    "service_id": 54536985,
+    "trip_id": 30523239311217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86673
+  },
+  {
+    "route_id": 11179,
+    "service_id": 54536985,
+    "trip_id": 30523240311217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86673
+  },
+  {
+    "route_id": 11179,
+    "service_id": 54536985,
+    "trip_id": 30523242311217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86673
+  },
+  {
+    "route_id": 11179,
+    "service_id": 54536985,
+    "trip_id": 30523243311217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86673
+  },
+  {
+    "route_id": 11179,
+    "service_id": 54536984,
+    "trip_id": 30523076311217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86673
+  },
+  {
+    "route_id": 11179,
+    "service_id": 54536984,
+    "trip_id": 30523077311217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86673
+  },
+  {
+    "route_id": 11179,
+    "service_id": 54536984,
+    "trip_id": 30523078311217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86673
+  },
+  {
+    "route_id": 11179,
+    "service_id": 54536984,
+    "trip_id": 30523079311217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86673
+  },
+  {
+    "route_id": 11179,
+    "service_id": 54536984,
+    "trip_id": 30523085311217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86673
+  },
+  {
+    "route_id": 11179,
+    "service_id": 54536984,
+    "trip_id": 30523087311217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86673
+  },
+  {
+    "route_id": 11179,
+    "service_id": 54536984,
+    "trip_id": 30523065311217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86673
+  },
+  {
+    "route_id": 11179,
+    "service_id": 54536984,
+    "trip_id": 30523067311217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86673
+  },
+  {
+    "route_id": 11179,
+    "service_id": 54536984,
+    "trip_id": 30523068311217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86673
+  },
+  {
+    "route_id": 11179,
+    "service_id": 54536984,
+    "trip_id": 30523069311217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86673
+  },
+  {
+    "route_id": 11179,
+    "service_id": 54536984,
+    "trip_id": 30523070311217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86673
+  },
+  {
+    "route_id": 11179,
+    "service_id": 54536984,
+    "trip_id": 30523074311217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86673
+  },
+  {
+    "route_id": 11179,
+    "service_id": 54536985,
+    "trip_id": 30523258311217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86673
+  },
+  {
+    "route_id": 11179,
+    "service_id": 54536985,
+    "trip_id": 30523259311217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86673
+  },
+  {
+    "route_id": 11179,
+    "service_id": 54536985,
+    "trip_id": 30523260311217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86673
+  },
+  {
+    "route_id": 11179,
+    "service_id": 54536985,
+    "trip_id": 30523262311217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86673
+  },
+  {
+    "route_id": 11179,
+    "service_id": 54536986,
+    "trip_id": 30523267311217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86673
+  },
+  {
+    "route_id": 11179,
+    "service_id": 54536986,
+    "trip_id": 30523268311217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86673
+  },
+  {
+    "route_id": 11179,
+    "service_id": 54536984,
+    "trip_id": 30523269311217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86673
+  },
+  {
+    "route_id": 11179,
+    "service_id": 54536985,
+    "trip_id": 30523238311217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86673
+  },
+  {
+    "route_id": 11179,
+    "service_id": 54536985,
+    "trip_id": 30523241311217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86673
+  },
+  {
+    "route_id": 11179,
+    "service_id": 54536985,
+    "trip_id": 30523248311217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86673
+  },
+  {
+    "route_id": 11179,
+    "service_id": 54536985,
+    "trip_id": 30523253311217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86673
+  },
+  {
+    "route_id": 11179,
+    "service_id": 54536985,
+    "trip_id": 30523255311217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86673
+  },
+  {
+    "route_id": 11179,
+    "service_id": 54536984,
+    "trip_id": 30523081311217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86673
+  },
+  {
+    "route_id": 11179,
+    "service_id": 54536984,
+    "trip_id": 30523082311217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86673
+  },
+  {
+    "route_id": 11179,
+    "service_id": 54536984,
+    "trip_id": 30523083311217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86673
+  },
+  {
+    "route_id": 11179,
+    "service_id": 54536984,
+    "trip_id": 30523084311217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86673
+  },
+  {
+    "route_id": 11179,
+    "service_id": 54536984,
+    "trip_id": 30523086311217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86673
+  },
+  {
+    "route_id": 11179,
+    "service_id": 54536984,
+    "trip_id": 30523088311217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86673
+  },
+  {
+    "route_id": 11179,
+    "service_id": 54536984,
+    "trip_id": 30523066311217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86673
+  },
+  {
+    "route_id": 11179,
+    "service_id": 54536984,
+    "trip_id": 30523071311217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86673
+  },
+  {
+    "route_id": 11179,
+    "service_id": 54536984,
+    "trip_id": 30523072311217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86673
+  },
+  {
+    "route_id": 11179,
+    "service_id": 54536984,
+    "trip_id": 30523073311217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86673
+  },
+  {
+    "route_id": 11179,
+    "service_id": 54536984,
+    "trip_id": 30523075311217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86673
+  },
+  {
+    "route_id": 11179,
+    "service_id": 54536984,
+    "trip_id": 30523080311217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86673
+  },
+  {
+    "route_id": 11179,
+    "service_id": 54536984,
+    "trip_id": 30523056311217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86673
+  },
+  {
+    "route_id": 11179,
+    "service_id": 54536984,
+    "trip_id": 30523057311217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86673
+  },
+  {
+    "route_id": 11179,
+    "service_id": 54536984,
+    "trip_id": 30523060311217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86673
+  },
+  {
+    "route_id": 11179,
+    "service_id": 54536984,
+    "trip_id": 30523061311217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86673
+  },
+  {
+    "route_id": 11179,
+    "service_id": 54536984,
+    "trip_id": 30523062311217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86673
+  },
+  {
+    "route_id": 11179,
+    "service_id": 54536984,
+    "trip_id": 30523063311217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86673
+  },
+  {
+    "route_id": 9021,
+    "service_id": 54536973,
+    "trip_id": 30523279311217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86671
+  },
+  {
+    "route_id": 9021,
+    "service_id": 54536973,
+    "trip_id": 30523280311217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86671
+  },
+  {
+    "route_id": 9021,
+    "service_id": 54536973,
+    "trip_id": 30523281311217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86671
+  },
+  {
+    "route_id": 9021,
+    "service_id": 54536973,
+    "trip_id": 30523284311217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86671
+  },
+  {
+    "route_id": 9021,
+    "service_id": 54536973,
+    "trip_id": 30523286311217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86671
+  },
+  {
+    "route_id": 9021,
+    "service_id": 54536974,
+    "trip_id": 30523319311217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86671
+  },
+  {
+    "route_id": 9021,
+    "service_id": 54536975,
+    "trip_id": 30523323311217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86671
+  },
+  {
+    "route_id": 9021,
+    "service_id": 54536974,
+    "trip_id": 30523320311217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86671
+  },
+  {
+    "route_id": 9021,
+    "service_id": 54536974,
+    "trip_id": 30523321311217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86671
+  },
+  {
+    "route_id": 9021,
+    "service_id": 54536974,
+    "trip_id": 30523322311217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86671
+  },
+  {
+    "route_id": 9021,
+    "service_id": 54536973,
+    "trip_id": 30523282311217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86671
+  },
+  {
+    "route_id": 9021,
+    "service_id": 54536973,
+    "trip_id": 30523283311217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86671
+  },
+  {
+    "route_id": 9021,
+    "service_id": 54536973,
+    "trip_id": 30523285311217,
+    "trip_headsign": "מודיעין מכבים רעות _ תחנה מרכזית",
+    "direction_id": true,
+    "shape_id": 86671
+  }
+]
