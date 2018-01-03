@@ -1,0 +1,40 @@
+[
+  {
+    "route_data": {
+      "route_id": 9009,
+      "route_names": [{
+        "route_short_name": 101,
+        "route_long_name": "מסוף 2000-תל אביב יפו<->בריכה/עמק דותן-מודיעין מכבים רעות-21",
+        "route_desc": "14101-2-1",
+        "route_type": 3,
+        "route_color": null
+      }],
+      "service_id": 54536941,
+      "trip_id": 2328102281217,
+      "shape_id": 88062,
+      "stations": [
+        {
+          "stop_id": 41599,
+            "stop_code": 31660,
+            "stop_name": [{
+              "stop_name_heb": "שדרות החשמונאים/לב העיר",
+              "stop_name_eng": ""
+            },
+          {
+            
+          }
+        ],
+        "stop_desc": [{
+          "stop_desc_heb": " רחוב:שדרות החשמונאים  עיר: מודיעין מכבים רעות רציף:   קומה:  ",
+          "stop_desc_eng": " Street:Sderot HaHashmonaim City: Modiin Maccabim Reut "
+        }],
+        "stop_lat": 31.900044,
+        "stop_lon": 35.00669,
+        "location_type": false,
+        "parent_station": null,
+        "zone_id": null
+      }],
+      "agency_id": 2
+    }
+  }
+]
